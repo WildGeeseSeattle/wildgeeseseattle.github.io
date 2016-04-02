@@ -16,8 +16,7 @@ function init()
 //Sub Menu for 2nd Main Menu Item ("Readings"):
 	menus[5] = new menu(400, "vertical", 0, 0, -5, -5, "#CACAFF", "#0000A0", "Verdana,Helvetica", 9, "bold", 
 		"bold", "black", "white", 1, "gray", 2, 62, false, true, false, true, 6, true, 4, 4, "black");
-	menus[5].addItem(WgsRoot + "Yeats/2015/150-reading.html", "", 22, "left", "Yeats 150", 0);
-	menus[5].addItem(WgsRoot + "Joyce/Bloomsday/2015.html", "", 22, "left", "Bloomsday 2015", 0);
+	menus[5].addItem(WgsRoot + "Joyce/Bloomsday/2016.html", "", 22, "left", "Bloomsday 2016", 0);
 
 //Sub Menu for 2nd Main Menu Item ("Players"):
 	menus[1] = new menu(280, "vertical", 0, 0, -5, -5, "#CACAFF", "#0000A0", "Verdana,Helvetica", 9, "bold", 
@@ -37,8 +36,8 @@ function init()
 //Sub Menu for 4th Main Menu Item ("The Other Bloomsday"):
 	menus[3] = new menu(200, "vertical", 0, 0, -5, -5, "#CACAFF", "#0000A0", "Verdana,Helvetica", 9, "bold", 
 		"bold", "black", "white", 1, "gray", 2, 62, false, true, false, true, 6, true, 4, 4, "black");
-	menus[3].addItem(WgsRoot + "Joyce/Bloomsday/2015.html", "", 22, "left", "Bloomsday 2015", 0);
-	menus[3].addItem(WgsRoot + "Joyce/Bloomsday/2015/press-release.html", "", 22, "left", "Press Release", 0);
+	menus[3].addItem(WgsRoot + "Joyce/Bloomsday/2016.html", "", 22, "left", "Bloomsday 2016", 0);
+	menus[3].addItem(WgsRoot + "Joyce/Bloomsday/2016/press-release.html", "", 22, "left", "Press Release", 0);
 	menus[3].addItem(WgsRoot + "archives.html", "", 22, "left", "Previous Bloomsdays", 0);
 
 //Sub Menu for 5th Main Menu Item ("Yeats"):
