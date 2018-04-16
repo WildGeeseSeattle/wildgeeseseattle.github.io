@@ -1,0 +1,6 @@
+pelican
+markdown
+invoke
+python-dateutil
+typogrify
+ghp-import
