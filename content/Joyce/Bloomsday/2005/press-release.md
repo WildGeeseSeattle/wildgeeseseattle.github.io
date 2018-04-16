@@ -1,5 +1,5 @@
 Title: 2005 Bloomsday Press Release
-Date: May 1, 2005
+Date: 2005-04-15 10:00
 Category: 2005
 
 # The Other Bloomsday 2005 - Press Release

@@ -1,5 +1,5 @@
 Title: 2018 Bloomsday Press Release
-Date: April 13, 2018
+Date: 2017-04-13 10:00
 Category: 2018
 
 # 21st Annual Staged Reading / Bloomsday Celebration of James Joyce’s Ulysses

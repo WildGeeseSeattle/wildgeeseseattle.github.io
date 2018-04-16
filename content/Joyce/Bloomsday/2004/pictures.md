@@ -1,5 +1,5 @@
 Title: The Other Bloomsday - Seattle 2004 - Pictures
-Date: May 1, 2004
+Date: 2004-04-15 11:00
 Category: 2004
 
 ## Rehearsals

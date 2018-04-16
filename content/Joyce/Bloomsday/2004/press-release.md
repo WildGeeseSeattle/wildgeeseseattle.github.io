@@ -1,5 +1,5 @@
 Title: 2004 Bloomsday Press Release
-Date: May 1, 2004
+Date: 2004-04-15 10:00
 Category: 2004
 
 # The Other Bloomsday - Press Release

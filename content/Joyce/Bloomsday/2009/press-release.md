@@ -1,5 +1,5 @@
 Title: 2009 Bloomsday Press Release
-Date: May 1, 2009
+Date: 2009-04-15 10:00
 Category: 2009
 
 # The Other Bloomsday 2009 - Press Release

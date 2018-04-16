@@ -1,5 +1,5 @@
 Title: 2017 Bloomsday Press Release
-Date: May 7, 2017
+Date: 2017-04-15 10:00
 Category: 2017
 
 # 20th Annual Staged Reading / Bloomsday Celebration of James Joyce’s Ulysses

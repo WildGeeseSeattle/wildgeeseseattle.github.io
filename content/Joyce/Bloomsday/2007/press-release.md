@@ -1,5 +1,5 @@
 Title: 2007 Bloomsday Press Release
-Date: May 1, 2007
+Date: 2007-04-15 10:00
 Category: 2007
 
 # The Other Bloomsday 2007 - Press Release

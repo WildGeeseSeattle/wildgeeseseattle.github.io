@@ -1,5 +1,5 @@
 Title: 2006 Bloomsday Press Release
-Date: May 1, 2006
+Date: 2006-04-15 10:00
 Category: 2006
 
 # The Other Bloomsday 2006 - Press Release

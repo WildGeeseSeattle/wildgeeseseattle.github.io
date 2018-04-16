@@ -1,5 +1,5 @@
 Title: 2013 Bloomsday Press Release
-Date: May 1, 2013
+Date: 2013-04-15 10:00
 Category: 2013
 
 # The Other Bloomsday 2013 - Press Release

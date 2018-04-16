@@ -1,5 +1,5 @@
 Title: 2010 Bloomsday Press Release
-Date: May 1, 2010
+Date: 2010-04-15 10:00
 Category: 2010
 
 # The Other Bloomsday 2010 - Press Release

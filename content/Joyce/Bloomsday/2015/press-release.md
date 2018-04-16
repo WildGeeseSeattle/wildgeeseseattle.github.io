@@ -1,5 +1,5 @@
 Title: 2015 Bloomsday Press Release
-Date: May 1, 2015
+Date: 2015-04-15 10:00
 Category: 2015
 
 # The Other Bloomsday 2015 — Press Release

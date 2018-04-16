@@ -1,5 +1,5 @@
 Title: 2016 Bloomsday Press Release
-Date: May 23, 2016
+Date: 2016-04-15 10:00
 Category: 2016
 
 # 19th Annual Staged Reading / Bloomsday Celebration of James Joyce’s Ulysses

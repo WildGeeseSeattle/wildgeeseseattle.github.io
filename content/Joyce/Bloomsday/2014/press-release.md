@@ -1,5 +1,5 @@
 Title: 2014 Bloomsday Press Release
-Date: May 1, 2014
+Date: 2014-04-15 10:00
 Category: 2014
 
 # The Other Bloomsday 2014 - Press Release
