@@ -1,15 +1,16 @@
-[![[Goose]](../../../images/goose.gif)](../../../index.html)
+Title: 2014 Bloomsday Press Release
+Date: May 1, 2014
+Category: 2014
 
-The Other Bloomsday 2014 - Press Release
-========================================
+# The Other Bloomsday 2014 - Press Release
 
 The Wild Geese Players of Seattle will present a staged reading of
-Chapter 1, “Telemachus”, and Chapter 4, “Calypso”, adapted from the 1922
-edition of James Joyce's *Ulysses*, on 2pm on Sunday, June 15th, 2014,
-at [The Seattle Central
-Library](http://www.spl.org/locations/central-library), 1000 Fourth Ave,
-Seattle, WA 98104
-[[Map](https://maps.google.com/maps?q=1000+Fourth+Avenue,+Seattle,+WA+98104)].
+Chapter 1, “Telemachus”, and Chapter 4, “Calypso”,
+adapted from the 1922 edition of James Joyce's *Ulysses*,
+on 2pm on Sunday, June 15th, 2014,
+at [The Seattle Central Library](http://www.spl.org/locations/central-library),
+1000 Fourth Ave, Seattle, WA 98104
+[Map](https://maps.google.com/maps?q=1000+Fourth+Avenue,+Seattle,+WA+98104).
 Donations towards costs of posters and props are welcome.
 
 Each year, the Wild Geese Players stage a public reading to commemorate

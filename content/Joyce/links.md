@@ -1,9 +1,8 @@
-[![[Goose]](../images/goose.gif)](../index.html)
+Title: James Joyce Links
+Date: 2008-01-01
+Category: misc
 
-James Joyce Links
-=================
-
-![[James Joyce]](./images/jj2.jpg)
+![[James Joyce]]({filename}images/jj2.jpg)
 
 A small selection of some of the better Joyce-related websites.
 

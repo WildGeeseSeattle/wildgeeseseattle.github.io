@@ -1,11 +1,9 @@
-[![](./images/goose.gif "[Goose]")](./index.html)
+Title: The Players
+Date: 2008-06-01
+Category: misc
 
-The Players
-===========
-
-Originally, the [Flight of the Wild
-Geese](http://en.wikipedia.org/wiki/Flight_of_the_Wild_Geese) referred
-to thousands of Irish soldiers who were exiled to France after the
+Originally, the [Flight of the Wild Geese](http://en.wikipedia.org/wiki/Flight_of_the_Wild_Geese)
+referred to thousands of Irish soldiers who were exiled to France after the
 Treaty of Limerick in 1691. For generations, their descendants served in
 the Irish Brigades in the French army, fighting against England.
 
@@ -24,21 +22,20 @@ Here are past and current members of the Players.
 
 * * * * *
 
-![](./images/Bill_Barnes.jpg "[Bill Barnes]")
+![]({filename}images/Bill_Barnes.jpg "[Bill Barnes]")
 
 ### Bill Barnes
 
-WD "Bill" Barnes is married to the former Maura Boyle of Belfast. A
-native of Seattle, he is a long-standing member of the Irish-American
-community. He has a Masters in English from Seattle University and has
-published poetry and appeared in other Irish theater productions in the
-past. He is also exactly one-half of the musical group, the "Emerald
-Bards". To earn his bread, he is a salesman in the communications
-industry.
+WD "Bill" Barnes is married to the former Maura Boyle of Belfast.
+A native of Seattle, he is a long-standing member of the Irish-American community.
+He has a Masters in English from Seattle University
+and has published poetry and appeared in other Irish theater productions in the past.
+He is also exactly one-half of the musical group, the "Emerald Bards".
+Bill is retired.
 
 * * * * *
 
-![](./images/emma-bartholomew.jpg "[Emma Bartholomew]")
+![]({filename}images/emma-bartholomew.jpg "[Emma Bartholomew]")
 
 ### Emma Bartholomew
 
@@ -48,11 +45,9 @@ She has had a varied career and now works as a software tester. 2008
 marks her fifth year with the Players. She is married to [George
 Reilly](#George-Reilly).
 
-**2008: door**
-
 * * * * *
 
-![](./images/Don_Berg.jpg "[Don Berg]")
+![]({filename}images/Don_Berg.jpg "[Don Berg]")
 
 ### Don Berg
 
@@ -65,7 +60,7 @@ commercial productions.
 
 * * * * *
 
-![](./images/Olivia_Bermingham-McDonogh.jpg "[Olivia Bermingham-McDonogh]")
+![]({filename}images/Olivia_Bermingham-McDonogh.jpg "[Olivia Bermingham-McDonogh]")
 
 ### Olivia Bermingham-McDonogh
 
@@ -86,8 +81,6 @@ putting on two productions a year, for 3 years. Have been involved with
 the Geese, for about 5 year? in production,front of house and small
 parts. I work as a caregiver,full time.
 
-**2008: Nurse Callan, Nurse Quigley, Barman**
-
 * * * * *
 
 ### Helen Brew
@@ -101,7 +94,7 @@ some Irish ancestry she tries to play up. She directed 2007's reading.
 
 * * * * *
 
-![](./images/Coyle_Ellen_001.jpg "[Ellen Coyle]")
+![]({filename}images/Coyle_Ellen_001.jpg "[Ellen Coyle]")
 
 ### Ellen Coyle
 
@@ -114,7 +107,7 @@ we create about them.
 
 * * * * *
 
-![](./images/Maura_Donegan.jpg "[Maura Donegan]")
+![]({filename}images/Maura_Donegan.jpg "[Maura Donegan]")
 
 ### Maura Donegan
 
@@ -123,8 +116,6 @@ first reading, although she was involved with the original Wild Geese
 (Edmonton) assisting with costumes. Her interests include textiles and
 embroidery. Maura is from Ireland. She has three children whom she
 educated at home.
-
-**2008: Narrator \#3**
 
 * * * * *
 
@@ -154,8 +145,6 @@ multimedia, and print, she taught college courses in business and
 technology. Since moving to Seattle in 2003, she works as a technical
 trainer, training developer, writer and editor.
 
-**2008: Narrator \#1**
-
 * * * * *
 
 ### Mark Gunning
@@ -165,8 +154,6 @@ ago) and has lived in the US for two decades, moving to Washington in
 2004. He studied Medicine in Trinity College Dublin, and researched and
 practiced nephrology in Boston and New Mexico before coming to the
 Northwest. 2008 will be his first reading with the Wild Geese.
-
-**2008: Vincent Lynch**
 
 * * * * *
 
@@ -179,11 +166,9 @@ Bourguiba, Mohamed Reza Pahlavi, Fahd bin Abdulaziz Al Saud, Bill
 Gates... 2008 is his twenty-second year of refuge in East Ballard, w.
 his Anglo-Danish wife and surviving children.
 
-**2008: Leopold Bloom**
-
 * * * * *
 
-![](./images/WendyJoseph2.jpg "[Wendy Joseph]")
+![]({filename}images/WendyJoseph2.jpg "[Wendy Joseph]")
 
 ### Wendy Joseph
 
@@ -202,8 +187,6 @@ V, a WWII freighter, and cargo ships the world over, from the Strait of
 Gibraltar to Singapore. In 2006, she won First Prize at the Seattle
 Maritime Festival's "Songs and Stories of the Sea" contest.
 
-**2008: N2, publicity**
-
 * * * * *
 
 ### Mary Kelly
@@ -218,7 +201,7 @@ Seattle University.
 
 * * * * *
 
-![](./images/BillKuhn.jpg "[Bill Kuhn]")
+![]({filename}images/BillKuhn.jpg "[Bill Kuhn]")
 
 ### Bill Kuhn
 
@@ -227,8 +210,6 @@ reading of Oxen of the Sun. Bill was raised on the east coast, but has
 lived in the Montlake neighborhood of Seattle with his wife, Pat, since
 1980. He has recently retired from the technology business, and is
 concentrating his efforts on photography and travel.
-
-**2008: director, Malachi Mulligan**
 
 * * * * *
 
@@ -244,7 +225,7 @@ Rowland and is the father of John Patrick, 17, and Brendan Thomas, 15.
 
 * * * * *
 
-![](./images/LeonMattigosh.jpg "[Leon Mattigosh]")
+![]({filename}images/LeonMattigosh.jpg "[Leon Mattigosh]")
 
 ### Leon Mattigosh
 
@@ -258,8 +239,6 @@ SEAGULL and UNCLE VANYA. Leon is an enrolled member of the Lac Du
 Flambeau Band of Lake Superior Chippewa Indians. Leon is confident that
 having taken part in a reading of Joyce's ULYSSES, he will go straight
 to hell.
-
-**2008: Punch Costello**
 
 * * * * *
 
@@ -277,7 +256,7 @@ Company.
 
 * * * * *
 
-![](./images/ciaran-omahony.jpg "[Ciaran O'Mahony]")
+![]({filename}images/ciaran-omahony.jpg "[Ciaran O'Mahony]")
 
 ### Ciaran O'Mahony
 
@@ -308,8 +287,6 @@ yer head in'!!). He has also re-connected with the Lyric theatre and is
 now in the process of a new building to house 2 theatres, 400 seat and
 100 seat!
 
-**2008: Madden, Dowie**
-
 * * * * *
 
 ### Lyndol Pullen
@@ -320,27 +297,24 @@ pianist.
 
 * * * * *
 
-![](./images/george_v_reilly.jpg "[George V. Reilly]")
+![]({filename}images/george_v_reilly.jpg "[George V. Reilly]")
 
 ### George V. Reilly
 
-George V. Reilly grew up in Dublin and moved to Seattle in 1992. He has
-degrees in Computer Science from Trinity College Dublin and Brown
-University, and works as a software developer. He first tried---and
-failed---to read Ulysses on the centenary of Joyce's birth in 1982. He
-joined the Players in 2003. George is married to [Emma
+George V. Reilly grew up in Dublin and moved to Seattle in 1992.
+He has degrees in Computer Science from Trinity College Dublin and Brown University,
+and works as a software developer.
+He first tried---and failed---to read Ulysses on the centenary of Joyce's birth in 1982.
+He joined the Players in 2003. George is married to [Emma
 Bartholomew](#Emma-Bartholomew)
 
-George is the webmaster for this site. He can be contacted at
-[www.georgevreilly.com](http://www.georgevreilly.com/).
-
-**2008: script wrangler, Stephen Dedalus, Bystander**
+George is the director, the dramaturg, the webmaster of the Wild Geese.
 
 * * * * *
 
 ### Joseph Ryan
 
-![](./images/joseph_ryan.jpg "[Joseph Ryan]")
+![]({filename}images/joseph_ryan.jpg "[Joseph Ryan]")
 
 Joseph grew up in Dublin and moved to Nenagh in Tipperary for high
 school. He attended University College in Dublin and later emigrated to
@@ -353,7 +327,5 @@ annual Ulysses' readings before he was roped in for reading in 2008. He
 has really enjoyed reading several parts including Lenehan and Bloom a
 couple of times. Joseph, an engineer, has no other thespian experience
 and sincerely hopes it does not show too much!
-
-**2008: Lenehan**
 
 * * * * *

@@ -1,7 +1,6 @@
-[![[Goose]](../images/goose.gif)](../index.html)
-
-*Joyce to the World* Showing
-============================
+Title: *Joyce to the World* Showing
+Date: 2005-07-30
+Category: misc
 
 In support of the International Joyce exhibition, Suzzallo Library Room
 102, August 8-September 30, 2005.

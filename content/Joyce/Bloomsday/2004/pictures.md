@@ -1,10 +1,8 @@
-[![[Goose]](../../../images/goose.gif)](../../../index.html)
+Title: The Other Bloomsday - Seattle 2004 - Pictures
+Date: May 1, 2004
+Category: 2004
 
-The Other Bloomsday - Seattle 2004 - Pictures
-=============================================
-
-Rehearsals
-----------
+## Rehearsals
 
 Photos by George Reilly.
 

@@ -1,7 +1,8 @@
-[![[Goose]](../../../images/goose.gif)](../../../index.html)
+Title: 2005 Bloomsday Press Release
+Date: May 1, 2005
+Category: 2005
 
-The Other Bloomsday 2005 - Press Release
-========================================
+# The Other Bloomsday 2005 - Press Release
 
 Now that the excitement of the Joycean Bloomsday Centenary has passed
 the Wild Geese Players of Seattle still continue their Joycean journey
@@ -14,14 +15,8 @@ Father Cowley, Simon Dedalus, Richie Goulding, Lenehan and Ben Dollard
 among others to enjoy an afternoon of songs and music with the divine
 Miss Douce and Miss Kennedy setting the scene!
 
-THURSDAY JUNE 16TH, 8PM\
- SATURDAY JUNE 18TH, 4PM\
- UNIVERSITY OF WASHINGTON SCHOOL OF MUSIC,\
- BRECHEMIN AUDITORIUM\
- DONATIONS AT THE DOOR
-
-Further Information:
---------------------
-
-425 778-3403, Nancy OR Kieran\
- [www.wildgeeseseattle.org](http://www.wildgeeseseattle.org/)
+THURSDAY JUNE 16TH, 8PM <br>
+SATURDAY JUNE 18TH, 4PM <br>
+UNIVERSITY OF WASHINGTON SCHOOL OF MUSIC, <br>
+BRECHEMIN AUDITORIUM <br>
+DONATIONS AT THE DOOR

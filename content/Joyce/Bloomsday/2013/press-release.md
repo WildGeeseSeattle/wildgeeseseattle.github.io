@@ -1,14 +1,16 @@
-[![[Goose]](../../../images/goose.gif)](../../../index.html)
+Title: 2013 Bloomsday Press Release
+Date: May 1, 2013
+Category: 2013
 
-The Other Bloomsday 2013 - Press Release
-========================================
+# The Other Bloomsday 2013 - Press Release
 
 The Wild Geese Players of Seattle will present a staged reading of
 Chapter 18, [“Penelope”](../2013.html) aka Molly Bloom’s Soliloquy,
-adapted from the 1922 edition of James Joyce's *Ulysses*, on 3pm on
-Sunday, June 16th, 2013, at [The Elliott Bay Book
-Company](http://www.elliottbaybook.com/), 1521 Tenth Avenue, Seattle, WA
-98122. Donations towards costs of posters and props are welcome.
+adapted from the 1922 edition of James Joyce's *Ulysses*,
+on 3pm on Sunday, June 16th, 2013,
+at [The Elliott Bay Book Company](http://www.elliottbaybook.com/),
+1521 Tenth Avenue, Seattle, WA 98122.
+Donations towards costs of posters and props are welcome.
 
 It's 2am on June 17th, 1904, and Molly Bloom lies awake in the bed. We
 are treated to Molly's innermost thoughts and ramblings, rendered as a
@@ -34,6 +36,4 @@ the 16th–18th centuries.
 Contact: [www.WildGeeseSeattle.org](http://www.WildGeeseSeattle.org) |
 [WildGeeseSeattle@gmail.com](mailto:WildGeeseSeattle@gmail.com)
 
-\
-\
- Promo video for Molly Bloom's Soliloquy
+Promo video for Molly Bloom's Soliloquy

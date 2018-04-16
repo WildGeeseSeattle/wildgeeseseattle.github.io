@@ -1,7 +1,5 @@
-![[Goose]](./images/goose.gif)
-
-The Wild Geese Players of Seattle
-=================================
+Title: The Wild Geese Players of Seattle
+Date: 2018-04-15 17:20
 
 We believe that poetry and certain novels are best read aloud, that some
 words are better heard than read. Every year, we perform a staged
@@ -16,25 +14,23 @@ young writer and Joyce's *alter ego*, as they wander the streets of
 Dublin. The centenary of Bloomsday, June 16th, 2004, was celebrated
 worldwide.
 
-The Other Bloomsday: Lestrygonians and Scylla &Charybdis Reading: June 16th, 2018
-=================================================================================
+# The Other Bloomsday: Lestrygonians and Scylla & Charybdis Reading: June 16th, 2018
 
 In this, our twenty-first year, we are reading *Ulysses* for the second
 time! We will present a [staged
-reading](./Joyce/Bloomsday/2018.html "The Other Bloomsday") of the
+reading]({filename}Joyce/Bloomsday/2018.md "The Other Bloomsday") of the
 second half of Chapter 8, “Lestrygonians”, and Chapter 9, "Scylla and
 Charybdis", at the Seattle Central Library,
 
 More about our [Lestrygonians/Scylla & Charybdis
-Reading](./Joyce/Bloomsday/2018.html) | [Press
-Release](./Joyce/Bloomsday/2018/press-release.html).
+Reading]({filename}Joyce/Bloomsday/2018.md) | [Press
+Release]({filename}Joyce/Bloomsday/2018/press-release.md).
 
-The Players
------------
+# The Players
 
 The Wild Geese Players of Seattle have been staging readings of Irish
-literature, by writers such as [James Joyce](./Joyce/index.html) and
-[W.B. Yeats](./Yeats/index.html), in Seattle since 1998. We are a
+literature, by writers such as [James Joyce]({filename}Joyce/index.md) and
+[W.B. Yeats]({filename}Yeats/index.md), in Seattle since 1998. We are a
 diverse group of people with an interest in Irish literature, and most
 of us are either Irish-born or have Irish connections. More generally,
 the Wild Geese refers to the [Irish
@@ -44,7 +40,7 @@ Geese](http://en.wikipedia.org/wiki/Flight_of_the_Wild_Geese), exiled
 Irish soldiers and their descendants who served in European armies in
 the 16th–18th centuries.
 
--   Join our [announcements list](./announcements.html) to get notice of
+-   Join our [announcements list]({filename}announcements.md) to get notice of
     upcoming events.
 -   Watch our videos on
     [YouTube](http://www.youtube.com/user/WildGeeseSeattle)
@@ -53,6 +49,6 @@ the 16th–18th centuries.
 -   Follow our [Google+
     page](https://plus.google.com/117294167940743273875/posts).
 -   Follow [@WildGeeseSea](http://twitter.com/wildgeesesea) on Twitter.
--   And see our [archives](./archives.html) for details of our previous
+-   And see our [archives]({filename}archives.md) for details of our previous
     shows.
 

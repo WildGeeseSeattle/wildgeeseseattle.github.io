@@ -1,14 +1,14 @@
-[![[Goose]](../../../images/goose.gif)](../../../index.html)
+Title: 2009 Bloomsday Press Release
+Date: May 1, 2009
+Category: 2009
 
-The Other Bloomsday 2009 - Press Release
-========================================
+# The Other Bloomsday 2009 - Press Release
 
-The Wild Geese Players of Seattle will perform a staged reading of
-*Circe*, chapter 15 of James Joyce’s *Ulysses*, on Saturday, June 13th,
-2009, 1:00-3:45pm, at the [University
-Bookstore](http://www.bookstore.washington.edu/), 4326 University Way
-NE, Seattle, WA 98105. Donations towards costs of posters and props are
-welcome.
+The Wild Geese Players of Seattle will perform a staged reading of *Circe*,
+chapter 15 of James Joyce’s *Ulysses*, on Saturday, June 13th, 2009, 1:00-3:45pm,
+at the [University Bookstore](http://www.bookstore.washington.edu/),
+4326 University Way NE, Seattle, WA 98105.
+Donations towards costs of posters and props are welcome.
 
 It is late on the night of June 16th, 1904, and Leopold Bloom has
 followed Stephen Dedalus into Dublin's red-light district. Bloom has a

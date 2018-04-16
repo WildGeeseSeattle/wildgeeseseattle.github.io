@@ -1,7 +1,8 @@
-[![[Goose]](../../../images/goose.gif)](../../../index.html)
+Title: 2007 Bloomsday Press Release
+Date: May 1, 2007
+Category: 2007
 
-The Other Bloomsday 2007 - Press Release
-========================================
+# The Other Bloomsday 2007 - Press Release
 
 Now that the excitement of the Joycean Bloomsday Centenary has passed
 the Wild Geese Players of Seattle still continue their Joycean journey
@@ -11,11 +12,10 @@ In this year we find the story at Chapter 13, Nausikaa. It is 8pm on a
 mid-June afternoon, and Leopold Bloom and young Gerty MacDowell are
 eyeing each other at a distance on a Dublin beach.
 
-SATURDAY JUNE 16TH\
- Location TBD\
- DONATIONS AT THE DOOR
+SATURDAY JUNE 16TH <br>
+Location TBD <br>
+DONATIONS AT THE DOOR
 
-Further Information:
---------------------
+## Further Information:
 
 [www.wildgeeseseattle.org](http://www.wildgeeseseattle.org/)

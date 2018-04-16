@@ -1,13 +1,14 @@
-[![[Goose]](../../../images/goose.gif)](../../../index.html)
+Title: 2010 Bloomsday Press Release
+Date: May 1, 2010
+Category: 2010
 
-The Other Bloomsday 2010 - Press Release
-========================================
+# The Other Bloomsday 2010 - Press Release
 
-The Wild Geese Players of Seattle will perform a staged reading of Part
-II of *Circe*, chapter 15 of James Joyce’s *Ulysses*, on Wednesday, June
-16th, 2010, 7:00-9:15pm, at the [Good Shepherd
-Center](http://www.historicseattle.org/projects/gsc.aspx), 4649
-Sunnyside Avenue N, Seattle, WA 98103
+The Wild Geese Players of Seattle will perform a staged reading of
+Part II of *Circe*, chapter 15 of James Joyce’s *Ulysses*,
+on Wednesday, June 16th, 2010, 7:00-9:15pm,
+at the [Good Shepherd Center](http://www.historicseattle.org/projects/gsc.aspx),
+4649 Sunnyside Avenue N, Seattle, WA 98103
 ([Map](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=4649+Sunnyside+Avenue+N,+Seattle,+WA+98103&sll=47.564626,-122.315652&sspn=0.010251,0.013797&ie=UTF8&hq=&hnear=4649+Sunnyside+Ave+N,+Seattle,+King,+Washington+98103&z=16)).
 Donations towards costs of posters and props are welcome.
 

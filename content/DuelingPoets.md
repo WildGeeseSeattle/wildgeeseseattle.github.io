@@ -1,12 +1,7 @@
-![[Goose]](./images/goose.gif)
+Title: Dueling Poets
+Date: 2005-10-15 17:20
 
-  -----------------------------------------------------------------------------------------------------------------------------------
-  [![](./images/DuelingPoets.jpg "Download flyer")](./posters/DuelingPoets.pdf "Download Flyer")
-  [![](http://www.adobe.com/images/get_adobe_reader.gif)](http://www.adobe.com/products/acrobat/readermain.html "Get Adobe Reader")
-  -----------------------------------------------------------------------------------------------------------------------------------
-
-Dueling Poets
-=============
+  [![]({filename}images/DuelingPoets.jpg "Download flyer")]({filename}posters/DuelingPoets.pdf "Download Flyer")
 
 Press Release
 
@@ -33,7 +28,7 @@ see their website at
 
 All this, and more, will take place on:
 
-Friday November 18th at 8pm\
+Friday November 18th, 2005 at 8pm\
  University of Washington Faculty Club,\
  Colleen Rohrbaugh room (formerly Music room)
 [(Map)](http://www.washington.edu/home/maps/northcentral.html?FAC "Map of UW Campus")
@@ -45,7 +40,5 @@ Post-show reception, with Guinness, Harp, Irish coffee, and craic!
 
 Donations for the Wild Geese will gratefully be accepted at the door
 
-Feel free to download and post our [flyer](./DuelingPoets.pdf "Flyer")
-(1.1MB). You may need to download the free [Adobe Acrobat
-Reader](http://www.adobe.com/products/acrobat/readermain.html "Get Adobe Reader")
-to print the flyer.
+Feel free to download and post our [flyer]({filename}posters/DuelingPoets.pdf "Flyer")
+(1.1MB).

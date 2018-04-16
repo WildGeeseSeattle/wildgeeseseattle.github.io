@@ -1,13 +1,8 @@
-[![[Goose]](../../../images/goose.gif)](../../../index.html)
+Title: 2016 Bloomsday Press Release
+Date: May 23, 2016
+Category: 2016
 
-FOR IMMEDIATE RELEASE
----------------------
-
-Seattle, WA – May 23, 2016
---------------------------
-
-19th Annual Staged Reading / Bloomsday Celebration of James Joyce’s Ulysses
----------------------------------------------------------------------------
+# 19th Annual Staged Reading / Bloomsday Celebration of James Joyce’s Ulysses
 
 The [Wild Geese Players of
 Seattle](http://www.wildgeeseseattle.org/index.html) join Bloomsday
@@ -52,6 +47,6 @@ For more information, visit the Wild Geese Players’ website
 [Facebook group](https://www.facebook.com/groups/51261017427/), or
 follow [@WildGeeseSea](http://twitter.com/wildgeesesea) on Twitter.
 
-Follow-up contacts: \
- George Reilly, Director,  WildGeeseSeattle@gmail.com \
- Claudia Finn, CFinnSeattle@gmail.com
+Follow-up contacts: <br>
+George Reilly, Director,  WildGeeseSeattle@gmail.com <br>
+Claudia Finn, CFinnSeattle@gmail.com

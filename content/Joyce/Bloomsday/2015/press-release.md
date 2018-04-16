@@ -1,15 +1,17 @@
-[![[Goose]](../../../images/goose.gif)](../../../index.html)
+Title: 2015 Bloomsday Press Release
+Date: May 1, 2015
+Category: 2015
 
-The Other Bloomsday 2015 — Press Release
-========================================
+# The Other Bloomsday 2015 — Press Release
 
 The Wild Geese Players of Seattle will present a staged reading of
-Chapter 2, “Nestor”, and Chapter 5, “The Lotus Eaters”, adapted from the
-1922 edition of James Joyce's *Ulysses*, on 2pm on Saturday, June 20th,
-2015, at [The Seattle Central
-Library](http://www.spl.org/locations/central-library), 1000 Fourth Ave,
-Seattle, WA 98104
-[[Map](https://maps.google.com/maps?q=1000+Fourth+Avenue,+Seattle,+WA+98104)].
+Chapter 2, “Nestor”, and Chapter 5, “The Lotus Eaters”,
+adapted from the 1922 edition of James Joyce's *Ulysses*,
+on 2pm on Saturday, June 20th, 2015,
+at [The Seattle Central Library](http://www.spl.org/locations/central-library),
+1000 Fourth Ave, Seattle, WA 98104
+[Map](https://maps.google.com/maps?q=1000+Fourth+Avenue,+Seattle,+WA+98104).
+
 Donations towards costs of posters and props are welcome.
 
 For this year’s reading of Ulysses, the Wild Geese Players are
@@ -35,8 +37,7 @@ from his love-interest-by-mail (not put off by his last letter); stops
 in to a Catholic church service to reflect on theological matters; runs
 an errand for Molly at the chemists’, and picks up a bar of soap for
 himself; and inadvertently supplies a betting tip to an acquaintance on
-his way to the baths, where he envisions himself relaxing in full
-flower.
+his way to the baths, where he envisions himself relaxing in full flower.
 
 The reading is expected to take about 90 minutes.
 

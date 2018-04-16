@@ -7,6 +7,7 @@ SITENAME = 'Wild Geese Players of Seattle'
 SITEURL = ''
 
 PATH = 'content'
+STATIC_PATHS = ['extras']
 
 TIMEZONE = 'America/Los_Angeles'
 
@@ -30,6 +31,12 @@ SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = False
+
+EXTRA_PATH_METADATA = {
+    'extras/favicon.ico': {'path': 'favicon.ico'},
+    'extras/CNAME': {'path': 'CNAME'},
+}
+TYPOGRIFY = True
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

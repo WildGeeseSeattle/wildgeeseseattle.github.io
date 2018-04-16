@@ -1,20 +1,9 @@
-[![[Goose]](./images/goose.gif)](./index.html)
+Title: Contacts
+Date: 2018-04-15
+Category: contacts
 
-Contacts
-========
-
-Role
-
-Person
-
-Email
-
-Phone
-
-Co-Director, Dramaturg, Webmaster
-
-[George V. Reilly](./players.html#George-Reilly)
-
-[wildgeeseseattle@gmail.com](mailto:wildgeeseseattle@gmail.com)
-
+| Role                              | Person            | Email                         | Phone    |
+| --------------------------------- | ----------------- | ----------------------------- | -------- |
+| Director, Dramaturg, Webmaster    | George V. Reilly  | wildgeeseseattle@gmail.com    |          |
+| Press                             | Claudia Finn      | CFinnSeattle@gmail.com        |          |
  

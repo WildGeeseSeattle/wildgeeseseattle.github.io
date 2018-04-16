@@ -1,9 +1,8 @@
-[![[Goose]](./images/goose.gif)](./index.html)
+Title: The Other Bloomsday - Seattle - Archives
+Date: 2018-04-15
+Category: archives
 
-The Other Bloomsday - Seattle - Archives
-========================================
-
-![[James Joyce]](./Joyce/images/jj2.jpg)
+![[James Joyce]]({filename}Joyce/images/jj2.jpg)
 
 1.  [1998: Chapter 1](#1998)
 2.  [1999: Chapter 2?](#1999)
@@ -27,6 +26,7 @@ The Other Bloomsday - Seattle - Archives
 20. [2015: 150th Anniversary of Yeats' Birth](2015-Yeats)
 21. [2016: Chapters 3 and 6](#2016-Bloomsday)
 22. [2017: Chapters 7 and 8.i](#2017-Bloomsday)
+22. [2018: Chapters 8.ii and 9](#2018-Bloomsday)
 
 1998: Chapter 1
 ---------------
@@ -67,82 +67,82 @@ June 2004: Chapter 10
 ---------------------
 
 Nothing here yet for [Chapter 10, Wandering
-Rocks](./Joyce/Bloomsday/2004.html "The Other Bloomsday").
+Rocks]({filename}Joyce/Bloomsday/2004.md "The Other Bloomsday").
 
 November 2004: Poetry and Music of Revolution and Evolution
 -----------------------------------------------------------
 
 Nothing here yet for [Poetry and Music of Revolution and
-Evolution](./rEvolution.html).
+Evolution]({filename}rEvolution.md).
 
 June 2005: Chapter 11
 ---------------------
 
 Nothing here yet for [Chapter 11,
-Sirens](./Joyce/Bloomsday/2005.html "The Other Bloomsday").
+Sirens]({filename}Joyce/Bloomsday/2005.md "The Other Bloomsday").
 
 June 2006: Chapter 12
 ---------------------
 
 Nothing here yet for [Chapter 12,
-Cyclops](./Joyce/Bloomsday/2006.html "The Other Bloomsday").
+Cyclops]({filename}Joyce/Bloomsday/2006.md "The Other Bloomsday").
 
 2007: Chapter 13
 ----------------
 
 Nothing here yet for [Chapter 13,
-Nausicaa](./Joyce/Bloomsday/2007.html "The Other Bloomsday").
+Nausicaa]({filename}Joyce/Bloomsday/2007.md "The Other Bloomsday").
 
 2008: Chapter 14
 ----------------
 
 Nothing here yet for [Chapter 14, Oxen of the
-Sun](./Joyce/Bloomsday/2008.html "The Other Bloomsday").
+Sun]({filename}Joyce/Bloomsday/2008.md "The Other Bloomsday").
 
 2009: Chapter 15, Part I
 ------------------------
 
 Nothing here yet for [Chapter 15, Circe, Part
-I](./Joyce/Bloomsday/2009.html "The Other Bloomsday").
+I]({filename}Joyce/Bloomsday/2009.md "The Other Bloomsday").
 
 2010: Chapter 15, Part II
 -------------------------
 
 Nothing here yet for [Chapter 15, Circe, Part
-II](./Joyce/Bloomsday/2010.html "The Other Bloomsday").
+II]({filename}Joyce/Bloomsday/2010.md "The Other Bloomsday").
 
 2011: Chapter 16
 ----------------
 
 Nothing here yet for [Chapter 16,
-Eumaeus](./Joyce/Bloomsday/2011.html "The Other Bloomsday").
+Eumaeus]({filename}Joyce/Bloomsday/2011.md "The Other Bloomsday").
 
 2012: Chapter 17
 ----------------
 
 Nothing here yet for [Chapter 17,
-Ithaca](./Joyce/Bloomsday/2012.html "The Other Bloomsday").
+Ithaca]({filename}Joyce/Bloomsday/2012.md "The Other Bloomsday").
 
 2013: Chapter 18
 ----------------
 
 Nothing here yet for [Chapter 18,
-Penelope](./Joyce/Bloomsday/2013.html "The Other Bloomsday").
+Penelope]({filename}Joyce/Bloomsday/2013.md "The Other Bloomsday").
 
 2014: Chapters 1 and 4
 ----------------------
 
 Nothing here yet for [Chapters 1 and 4, Telemachus and
-Calypso](./Joyce/Bloomsday/2014.html "The Other Bloomsday").
+Calypso]({filename}Joyce/Bloomsday/2014.md "The Other Bloomsday").
 
 2015: Chapters 2 and 5
 ----------------------
 
 Nothing here yet for [Chapters 2 and 5, Nestor and the Lotus
-Eaters](./Joyce/Bloomsday/2015.html "The Other Bloomsday").
+Eaters]({filename}Joyce/Bloomsday/2015.md "The Other Bloomsday").
 
 2015: 150th Anniversary of Yeats' Birth
 ---------------------------------------
 
 Nothing here yet for [150th anniversary of Yeats'
-birth](./Yeats/2015/150-reading.html "Yeats 150").
+birth]({filename}Yeats/2015/150-reading.md "Yeats 150").
