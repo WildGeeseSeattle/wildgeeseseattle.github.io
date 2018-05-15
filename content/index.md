@@ -27,8 +27,8 @@ Reading]({filename}Joyce/Bloomsday/2018.md) | [Press
 Release]({filename}Joyce/Bloomsday/2018/press-release.md).
 
 <div>
- <a href="{filename}posters/2018-lunch-and-shake.pdf" title="Download Lestrygonians/Scylla &amp; Charybdis Poster" target="_blank">
-  <img src="{filename}posters/2018-lunch-and-shake.jpg" style="padding: 4em 1em 1em 2em;" width="500" height="641"/>
+ <a href="posters/2018-lunch-and-shake.pdf" title="Download Lestrygonians/Scylla &amp; Charybdis Poster" target="_blank">
+  <img src="posters/2018-lunch-and-shake.jpg" style="padding: 4em 1em 1em 2em;" width="500" height="641"/>
   </a>
  </div>
 
