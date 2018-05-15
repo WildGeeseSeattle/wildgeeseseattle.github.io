@@ -8,7 +8,7 @@ SITEURL = ''
 THEME = '/Users/georgevreilly/src/pelican-themes/lannisport'
 
 PATH = 'content'
-STATIC_PATHS = ['extras']
+STATIC_PATHS = ['extras', 'posters']
 
 TIMEZONE = 'America/Los_Angeles'
 DEFAULT_LANG = 'en'
