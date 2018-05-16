@@ -35,17 +35,19 @@ Release]({filename}Joyce/Bloomsday/2018/press-release.md).
 
 # The Players
 
-The Wild Geese Players of Seattle have been staging readings of Irish
-literature, by writers such as [James Joyce]({filename}Joyce/index.md) and
-[W.B. Yeats]({filename}Yeats/index.md), in Seattle since 1998. We are a
-diverse group of people with an interest in Irish literature, and most
-of us are either Irish-born or have Irish connections. More generally,
-the Wild Geese refers to the [Irish
-diaspora](http://en.wikipedia.org/wiki/Irish_diaspora), after the
-original [Wild
-Geese](http://en.wikipedia.org/wiki/Flight_of_the_Wild_Geese), exiled
-Irish soldiers and their descendants who served in European armies in
-the 16th–18th centuries.
+The Wild Geese Players of Seattle have been staging readings of Irish literature,
+by writers such as [James Joyce]({filename}Joyce/index.md) and
+[W.B. Yeats]({filename}Yeats/index.md),
+in Seattle since 1998.
+We are a [diverse group of people]({filename}players.md)
+with an interest in Irish literature,
+and most of us are either Irish-born or have Irish connections.
+More generally, the Wild Geese refers to the
+[Irish diaspora](http://en.wikipedia.org/wiki/Irish_diaspora),
+after the original
+[Wild Geese](http://en.wikipedia.org/wiki/Flight_of_the_Wild_Geese),
+exiled Irish soldiers and their descendants who served in European armies in
+the 16th—18th centuries.
 
 -   Join our [announcements list]({filename}announcements.md) to get notice of
     upcoming events.

@@ -2,7 +2,7 @@ Title: The Other Bloomsday - Seattle
 Date: 2018-04-15
 Category: Joyce
 
-![[James Joyce]]({filename}images/jj1.jpg)
+![James Joyce]({filename}/images/jj1.jpg)
 
 James Joyce's novel *Ulysses* takes place on June 16th, 1904. It follows
 the wanderings of Leopold Bloom, a Jewish everyman, and Stephen Dedalus,
