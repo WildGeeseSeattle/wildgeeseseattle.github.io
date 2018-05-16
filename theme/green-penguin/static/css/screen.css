@@ -61,6 +61,7 @@ body {
     font-size: 22px;
     line-height: 1.33em;
     color: #444;
+    background-color: rgba(245, 248, 225, 0.56)
 }
 
 header, #wrapper {
@@ -104,7 +105,7 @@ blockquote {
 }
 
 .date {
-    color: #CCC;
+    color: #AAA;
     float: left;
     clear: both;
     width: 130px;
@@ -249,7 +250,7 @@ nav a:hover {
     color: #FFF;
 }
 nav li.selected a {
-    background-color: #15A9DB;
+    background-color: #79ad5f;
     color: #FFF;
 }
 
