@@ -15,7 +15,7 @@ The Wild Geese Players of Seattle will present a
 [staged reading]({filename}Joyce/Bloomsday/2018.md "The Other Bloomsday")
 of *Ulysses*,
 the second half of Chapter 8, “Lestrygonians”,
-and Chapter 9, "Scylla and Charybdis",
+and Chapter 9, “Scylla and Charybdis”,
 at Seattle Central Library.
 
 This is our twenty-first year of Bloomsday readings.

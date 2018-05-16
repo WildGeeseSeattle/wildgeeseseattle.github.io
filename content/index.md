@@ -1,37 +1,36 @@
 Title: The Wild Geese Players of Seattle
 Date: 2018-04-15 17:20
 
-We believe that poetry and certain novels are best read aloud, that some
-words are better heard than read. Every year, we perform a staged
-reading of part of James Joyce's novel
-[Ulysses](http://en.wikipedia.org/wiki/Ulysses_(novel)). Occasionally,
-we do other readings too.
+We believe that poetry and certain novels are best read aloud,
+that some words are better heard than read.
+Every year, we perform a staged reading of part of James Joyce's novel
+[Ulysses](http://en.wikipedia.org/wiki/Ulysses_(novel)).
+Occasionally, we do other readings too.
 
 Ulysses takes place on June 16th, 1904, the date now known as
-[Bloomsday](http://en.wikipedia.org/wiki/Bloomsday). It follows the
-wanderings of Leopold Bloom, a Jewish everyman, and Stephen Dedalus, a
-young writer and Joyce's *alter ego*, as they wander the streets of
-Dublin. The centenary of Bloomsday, June 16th, 2004, was celebrated
-worldwide.
+[Bloomsday](http://en.wikipedia.org/wiki/Bloomsday).
+It follows the wanderings of Leopold Bloom, a Jewish everyman,
+and Stephen Dedalus, a young writer and Joyce's *alter ego*,
+as they wander the streets of Dublin.
+The centenary of Bloomsday, June 16th, 2004, was celebrated worldwide.
 
 # The Other Bloomsday: Lestrygonians and Scylla & Charybdis Reading: June 16th, 2018
 
-In this, our twenty-first year, we are reading *Ulysses* for the second
-time! We will present a [staged
-reading]({filename}Joyce/Bloomsday/2018.md "The Other Bloomsday") of the
-second half of Chapter 8, “Lestrygonians”, and Chapter 9, "Scylla and
-Charybdis", at the Seattle Central Library,
+For our twentieth anniversary,
+we will present a [staged reading]({filename}Joyce/Bloomsday/2018.md "The Other Bloomsday")
+of the second half of Chapter 8, “Lestrygonians”
+and all of Chapter 9, “Scylla and Charybdis”
+at the Seattle Central Library,
 
-More about our [Lestrygonians/Scylla & Charybdis
-Reading]({filename}Joyce/Bloomsday/2018.md) | [Press
-Release]({filename}Joyce/Bloomsday/2018/press-release.md).
+More about our [Lestrygonians/Scylla & Charybdis Reading]({filename}Joyce/Bloomsday/2018.md)
+| [Press Release]({filename}Joyce/Bloomsday/2018/press-release.md).
 
 <div>
- <a href="posters/2018-lunch-and-shake.pdf" title="Download Lestrygonians/Scylla &amp; Charybdis Poster" target="_blank">
-  <img src="posters/2018-lunch-and-shake.jpg" style="padding: 4em 1em 1em 2em;" width="500" height="641"/>
+ <a href="{filename}Joyce/Bloomsday/2018.md" title="Lestrygonians/Scylla &amp; Charybdis">
+  <img src="{filename}posters/2018-lunch-and-shake.jpg"
+       style="padding: 4em 1em 1em 2em;" width="500" height="641"/>
   </a>
  </div>
-
 
 # The Players
 
