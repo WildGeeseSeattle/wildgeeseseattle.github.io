@@ -84,8 +84,12 @@ ol {
     list-style: outside decimal;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6,
+.info, .pages, footer {
     font-family: 'Overlock', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
 }
 h1, h2, h3 {
@@ -116,7 +120,6 @@ blockquote {
 
 .info {
     margin-top: 1.3em;
-    font-family: sans-serif;
     text-align: right;
     color: #BBB;
 }
@@ -273,7 +276,6 @@ header h2 {
 }
 
 .pages {
-    font-family: sans-serif;
     line-height: 2.5em;
     margin: 4.5em 0 3em;
     background-color: #F9F9F9;
@@ -328,7 +330,6 @@ code {
 }
 
 footer {
-    font-family: sans-serif;
     line-height: 2.5em;
     text-align: center;
     color: #BBB;
