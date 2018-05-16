@@ -22,9 +22,9 @@ Here are past and current members of the Players.
 
 * * * * *
 
-![]({filename}images/Bill_Barnes.jpg "[Bill Barnes]")
-
 ### Bill Barnes
+
+![Bill Barnes]({filename}images/Bill_Barnes.jpg)
 
 WD "Bill" Barnes is married to the former Maura Boyle of Belfast.
 A native of Seattle, he is a long-standing member of the Irish-American community.
@@ -35,9 +35,9 @@ Bill is retired.
 
 * * * * *
 
-![]({filename}images/emma-bartholomew.jpg "[Emma Bartholomew]")
-
 ### Emma Bartholomew
+
+![Emma Bartholomew]({filename}images/emma-bartholomew.jpg)
 
 Emma Bartholomew has a degree in Comparative Literature from Scripps
 College. After a stint in the Air Force, she moved to Seattle in 1987.
@@ -47,7 +47,7 @@ Reilly](#George-Reilly).
 
 * * * * *
 
-![]({filename}images/Don_Berg.jpg "[Don Berg]")
+![Don Berg]({filename}images/Don_Berg.jpg)
 
 ### Don Berg
 
@@ -60,7 +60,7 @@ commercial productions.
 
 * * * * *
 
-![]({filename}images/Olivia_Bermingham-McDonogh.jpg "[Olivia Bermingham-McDonogh]")
+![Olivia Bermingham-McDonogh]({filename}images/Olivia_Bermingham-McDonogh.jpg)
 
 ### Olivia Bermingham-McDonogh
 
@@ -94,7 +94,7 @@ some Irish ancestry she tries to play up. She directed 2007's reading.
 
 * * * * *
 
-![]({filename}images/Coyle_Ellen_001.jpg "[Ellen Coyle]")
+![Ellen Coyle]({filename}images/Coyle_Ellen_001.jpg)
 
 ### Ellen Coyle
 
@@ -107,7 +107,7 @@ we create about them.
 
 * * * * *
 
-![]({filename}images/Maura_Donegan.jpg "[Maura Donegan]")
+![Maura Donegan]({filename}images/Maura_Donegan.jpg)
 
 ### Maura Donegan
 
@@ -168,7 +168,7 @@ his Anglo-Danish wife and surviving children.
 
 * * * * *
 
-![]({filename}images/WendyJoseph2.jpg "[Wendy Joseph]")
+![Wendy Joseph]({filename}images/WendyJoseph2.jpg)
 
 ### Wendy Joseph
 
@@ -201,7 +201,7 @@ Seattle University.
 
 * * * * *
 
-![]({filename}images/BillKuhn.jpg "[Bill Kuhn]")
+![Bill Kuhn]({filename}images/BillKuhn.jpg)
 
 ### Bill Kuhn
 
@@ -225,7 +225,7 @@ Rowland and is the father of John Patrick, 17, and Brendan Thomas, 15.
 
 * * * * *
 
-![]({filename}images/LeonMattigosh.jpg "[Leon Mattigosh]")
+![Leon Mattigosh]({filename}images/LeonMattigosh.jpg)
 
 ### Leon Mattigosh
 
@@ -256,7 +256,7 @@ Company.
 
 * * * * *
 
-![]({filename}images/ciaran-omahony.jpg "[Ciaran O'Mahony]")
+![Ciaran O'Mahony]({filename}images/ciaran-omahony.jpg)
 
 ### Ciaran O'Mahony
 
@@ -297,7 +297,7 @@ pianist.
 
 * * * * *
 
-![]({filename}images/george_v_reilly.jpg "[George V. Reilly]")
+![George V. Reilly]({filename}images/george_v_reilly.jpg)
 
 ### George V. Reilly
 
@@ -314,7 +314,7 @@ George is the director, the dramaturg, the webmaster of the Wild Geese.
 
 ### Joseph Ryan
 
-![]({filename}images/joseph_ryan.jpg "[Joseph Ryan]")
+![Joseph Ryan]({filename}images/joseph_ryan.jpg)
 
 Joseph grew up in Dublin and moved to Nenagh in Tipperary for high
 school. He attended University College in Dublin and later emigrated to
