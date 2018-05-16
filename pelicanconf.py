@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'George V. Reilly'
 SITENAME = 'Wild Geese Players of Seattle'
 SITEURL = ''
-THEME = 'theme/green-penguin'
+THEME = 'theme/green-goose'
 
 PATH = 'content'
 STATIC_PATHS = ['extras', 'posters', 'images']
