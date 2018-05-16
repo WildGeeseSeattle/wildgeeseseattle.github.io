@@ -7,6 +7,7 @@
 <head>
     {% block head %}
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
     {# favicon #}
     <link rel="shortcut icon" type="image/png" href="{{ SITEURL }}/favicon.png">
@@ -39,6 +40,8 @@
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/pygments.css" type="text/css" />
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/print.css" type="text/css" media="print" />
     <meta name="generator" content="Pelican" />
+    <meta name="description" content="{{ SITEDESCRIPTION }}" />
+    <meta name="author" content="{{ AUTHOR }}" />
     {% endblock head %}
 </head>
 <body>
@@ -49,10 +52,10 @@
             <ul>
             {% block ephemeral_nav %}{% endblock %}
                 {% if DISPLAY_HOME or DISPLAY_HOME is not defined %}
-                <li{% if output_file == "index.html" %} class="selected"{% endif %}><a href="{{ SITEURL }}">Home</a></li>
+                <li{% if output_file == "index.html" %} class="selected"{% endif %}><a href="{{ SITEURL }}/">Home</a></li>
                 {% endif %}
                 {% if DISPLAY_PAGES_ON_MENU %}
-                {% for p in PAGES %}
+                {% for p in pages %}
                 <li{% if p == page %} class="selected"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
                 {% endfor %}
                 {% endif %}
@@ -66,7 +69,7 @@
         </nav>
         {% endif %}
         <div class="header_box">
-            <h1><a href="{{ SITEURL }}">{{ SITENAME }}</a></h1>
+            <h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1>
             {% if SITESUBTITLE %}
             <h2>{{ SITESUBTITLE }}</h2>
             {% endif %}

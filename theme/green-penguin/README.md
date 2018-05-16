@@ -7,6 +7,9 @@ A simple theme for pelican. Solarized pygments. Feeds support.
 ```python
 # all the following settings are *optional*
 
+# HTML metadata
+SITEDESCRIPTION = ''
+
 # all defaults to True.
 DISPLAY_HEADER = True
 DISPLAY_FOOTER = True
@@ -44,12 +47,7 @@ Requests. If you don’t have a Github account you can suggest me your
 changes by email (which you can find on my github profile).
 
 ## Contributors
-* [Nevan Scott](https://github.com/nevanscott/Mockingbird) (original author)
-* [wrl](http://github.com/wrl) (port to pelican, pelican-mockingbird)
-* [Jody Frankowski](http://github.com/jody-frankowski) (Blue Penguin)
-* [Grimbox](https://github.com/Grimbox)
-* [ix5](https://github.com/ix5)
-* [dn0](https://github.com/dn0)
+See [CONTRIBUTORS.md](CONTRIBUTORS.md).
 
 ## License
 Public domain.
