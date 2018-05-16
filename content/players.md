@@ -3,9 +3,10 @@ Date: 2008-06-01
 Category: misc
 
 Originally, the [Flight of the Wild Geese](http://en.wikipedia.org/wiki/Flight_of_the_Wild_Geese)
-referred to thousands of Irish soldiers who were exiled to France after the
-Treaty of Limerick in 1691. For generations, their descendants served in
-the Irish Brigades in the French army, fighting against England.
+referred to thousands of Irish soldiers who were exiled to France
+after the Treaty of Limerick in 1691.
+For generations, their descendants served in the Irish Brigades in the French army,
+fighting against England.
 
 The [Wild Geese Heritage Museum](http://indigo.ie/~wildgees/index.htm)
 of Portumna, Co. Galway has a large collection of Wild Geese material.
@@ -14,9 +15,10 @@ More generally, the term "Wild Geese" has become synonymous with the
 [Irish diaspora](http://en.wikipedia.org/wiki/Irish_diaspora).
 
 The Wild Geese Players of Seattle are a diverse group of people who
-share a common interest in Irish literature. Some of us were born in
-Ireland, some of us are of Irish descent, and some of us are honorary
-Irish!
+share a common interest in Irish literature.
+Some of us were born in Ireland,
+some of us are of Irish descent,
+and some of us are honorary Irish!
 
 Here are past and current members of the Players.
 

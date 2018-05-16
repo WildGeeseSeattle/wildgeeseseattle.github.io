@@ -28,7 +28,8 @@ their legacy for America and for the world.
 Kieran Darragh O'Malley <br>
 Artistic Director
 
-For further information, contact: Mary Kelly, Publicity (206) 528-1988,
+For further information, contact:
+Mary Kelly, Publicity (206) 528-1988,
 [mpkelly@seattleu.edu](mpkelly@seattleu.edu).
 
 Feel free to download and post our [flyer]({filename}posters/rEvolution.pdf "Flyer").

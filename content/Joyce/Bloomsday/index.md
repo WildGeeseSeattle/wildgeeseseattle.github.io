@@ -1,4 +1,4 @@
-Title: The Other Bloomsday - Seattle
+Title: Bloomsday - Seattle
 Date: 2018-04-15
 Category: Joyce
 
@@ -12,7 +12,7 @@ Dublin.
 The centenary of Bloomsday, June 16th, 2004, was celebrated worldwide.
 
 The Wild Geese Players of Seattle will present a
-[staged reading]({filename}Joyce/Bloomsday/2018.md "The Other Bloomsday")
+[staged reading]({filename}2018.md "The Other Bloomsday")
 of *Ulysses*,
 the second half of Chapter 8, “Lestrygonians”,
 and Chapter 9, “Scylla and Charybdis”,
@@ -22,10 +22,10 @@ This is our twenty-first year of Bloomsday readings.
 
 ## Previous Years: 1998–2017
 
-Visit our [archives]({filename}archives.md).
+Visit our [archives]({filename}/archives.md).
 
 ## Future Events
 
 No other events are currently planned.
-Join our [announcements list]({filename}announcements.md)
+Join our [announcements list]({filename}/announcements.md)
 to be notified of our next reading.

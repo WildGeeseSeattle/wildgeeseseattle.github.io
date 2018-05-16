@@ -5,7 +5,7 @@ Category: 2004
 # The Other Bloomsday - Press Release
 
 The Wild Geese Players of Seattle will once again be offering a
-[staged reading]({filename}Joyce/Bloomsday/2004.md)
+[staged reading]({filename}../2004.md)
 of James Joyce's *Ulysses* called 'The Other Bloomsday'.
 This is the seventh year that the group has performed the work.
 This year is rather special as it is the centenary of Bloomsday,
