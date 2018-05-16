@@ -5,10 +5,10 @@ from __future__ import unicode_literals
 AUTHOR = 'George V. Reilly'
 SITENAME = 'Wild Geese Players of Seattle'
 SITEURL = ''
-THEME = '/Users/georgevreilly/src/pelican-themes/lannisport'
+THEME = 'theme/green-penguin'
 
 PATH = 'content'
-STATIC_PATHS = ['extras', 'posters']
+STATIC_PATHS = ['extras', 'posters', 'images']
 
 TIMEZONE = 'America/Los_Angeles'
 DEFAULT_LANG = 'en'
