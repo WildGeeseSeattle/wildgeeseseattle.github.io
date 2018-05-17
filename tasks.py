@@ -66,4 +66,4 @@ def preview(ctx):
 def gh_pages(ctx):
     """Publish to GitHub Pages"""
     rebuild(ctx)
-    run("ghp-import -b {github_pages_branch} {deploy_path} -p".format(**env))
+    run("ghp-import -b {github_pages_branch} {deploy_path} -p".format(**vars(env)))
