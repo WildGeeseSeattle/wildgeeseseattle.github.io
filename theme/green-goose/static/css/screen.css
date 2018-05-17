@@ -57,11 +57,16 @@ table {
 }
 
 body {
-    font-family: 'Alegreya', serif;
+    font-family: 'Gentium Basic', serif;
     font-size: 22px;
-    line-height: 1.33em;
+    line-height: 1.4em;
     color: #444;
     background-color: rgba(245, 248, 225, 0.56)
+}
+
+h1, h2, h3, h4, h5, h6,
+.info, .pages, footer {
+    font-family: 'Lato', 'Arial Narrow', sans-serif;
 }
 
 header, #wrapper {
@@ -76,17 +81,16 @@ a {
     color: #79ad5f;
 }
 
+a:hover {
+    color: orange;
+}
+
 ul {
     list-style: outside disc;
 }
 
 ol {
     list-style: outside decimal;
-}
-
-h1, h2, h3, h4, h5, h6,
-.info, .pages, footer {
-    font-family: 'Overlock', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -151,7 +155,7 @@ blockquote {
     margin-left: 160px;
 }
 .post p {
-    text-align: justify;
+    text-align: left;
 }
 
 .page {
@@ -261,12 +265,20 @@ header .header_box {
     padding-top: 4.5em;
 }
 header h1 {
-    font-size: 2.5em;
+    font-size: 2.4em;
+    font-variant: small-caps;
+    letter-spacing: 1px;
     line-height: 1em;
     margin: 0;
-    /* filter: drop-shadow(3px 3px 2px black); */
-    letter-spacing: 1px;
+    width: 16em;
+    position: relative;
+    left: 0;
 }
+
+header h1 a {
+    color: #316019;
+}
+
 header h2 {
     font-size: 1em;
     margin: .3em 0;
