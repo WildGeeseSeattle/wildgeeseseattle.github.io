@@ -14,13 +14,11 @@ The Celebration will take place on **Sun, Oct 21, 2018, at 2pm**
 at the Couth Buzzard in Seattle. The Couth Buzzard is a bookstore and gathering 
 place for writers, and a venue for literary and musical events.
 
->   The Couth Buzzard,<br/>
+>   [The Couth Buzzard](http://www.buonobuzzard.com/about/),<br/>
 >   8310 Greenwood Ave N,<br/>
 >   Seattle, WA 98103
 
 >   Phone: (206) 436–2960
-
->   Website: http://www.buonobuzzard.com/about/
 
 The public is invited and there is no charge for admission. Yep, it's FREE.
 The Couth Buzzard also offers a fine selection of
