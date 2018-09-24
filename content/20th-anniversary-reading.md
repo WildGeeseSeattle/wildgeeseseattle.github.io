@@ -24,4 +24,6 @@ The public is invited and there is no charge for admission. Yep, it's FREE.
 The Couth Buzzard also offers a fine selection of
 beer, wine, and food, as well as an espresso bar.
 
+Please RSVP at the [Facebook event](https://www.facebook.com/events/197475567690958/)
+
 Sláinte!
