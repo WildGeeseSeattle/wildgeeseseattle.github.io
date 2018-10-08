@@ -2,9 +2,12 @@ Title: A Celebration of Irish Writers
 Date: 2018-09-23
 Category: misc
 
+[![20th Anniversary Celebration]({filename}/posters/20thAnnivCelebrationLit.png)]({filename}/posters/20thAnnivCelebrationLit.pdf "Downloadable PDF of poster")
+
 **A Celebration of Irish Writers**: An afternoon of readings from the works of
 W.B. Yeats, James Joyce, Nuala Ní Dhomhnaill, Billy Collins, Pádraig Pearse,
-John McGahern, Kieran O'Malley, and others, by the Wild Geese Players of Seattle.
+John McGahern, Flann O'Brien/Myles na gCopaleen, Joseph O'Connor, Roddy Doyle,
+Kieran O'Malley, and others, by the Wild Geese Players of Seattle.
 
 Founded in 1998 by Kieran O'Malley, the Seattle-based Wild Geese Players have publicly 
 read a chapter from James Joyce's *Ulysses* on Bloomsday, June 16th,
