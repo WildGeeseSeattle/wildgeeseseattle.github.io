@@ -1,4 +1,4 @@
-Title: A Celebration of Irish Writers: Sun Oct 21
+Title: A Celebration of Irish Writers—Sun Oct 21
 Date: 2018-09-23
 Category: misc
 
@@ -17,6 +17,7 @@ The Celebration will take place on **Sun, Oct 21, 2018, at 2pm**
 at the Couth Buzzard in Seattle. The Couth Buzzard is a bookstore and gathering 
 place for writers, and a venue for literary and musical events.
 
+>   Sun, Oct 21, 2018, at 2pm<br/>
 >   [The Couth Buzzard](http://www.buonobuzzard.com/about/),<br/>
 >   8310 Greenwood Ave N,<br/>
 >   Seattle, WA 98103
