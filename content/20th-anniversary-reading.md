@@ -1,6 +1,7 @@
 Title: A Celebration of Irish Writers—Sun Oct 21
 Date: 2018-09-23
 Category: misc
+Slug: a-celebration-of-irish-writers
 
 [![20th Anniversary Celebration]({filename}/posters/20thAnnivCelebrationLit.png)]({filename}/posters/20thAnnivCelebrationLit.pdf "Downloadable PDF of poster")
 
