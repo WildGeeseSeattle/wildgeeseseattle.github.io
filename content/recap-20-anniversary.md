@@ -2,7 +2,7 @@ Title: Recap: 20th Anniversary Reading
 Date: 2018-10-21 19:30
 Category: misc
 
-Thanks to all the people who came out to the Couth Buzzard
+Thanks to all the people who came out to the Couth Buzzard 
 this afternoon to hear us read from Joyce, Yeats, Roddy Doyle,
 Dervla Murphy, Eavan Boland, and many more for our
 [20th anniversary reading]({filename}/20th-anniversary-reading.md).
