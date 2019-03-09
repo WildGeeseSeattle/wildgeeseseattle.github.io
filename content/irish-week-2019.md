@@ -19,3 +19,4 @@ Our reading is part of the weekend-long
 at the Seattle Center Armory.
 Join us in the *Upper Level* from 2–3pm on Sunday, March 17th, 2019.
 
+RSVP at the [Facebook event](https://www.facebook.com/events/253324672239194/).
