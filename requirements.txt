@@ -1,4 +1,4 @@
-pelican
+pelican<4
 markdown
 invoke
 python-dateutil
