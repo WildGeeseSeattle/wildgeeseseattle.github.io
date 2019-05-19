@@ -27,6 +27,8 @@ Category: archives
 21. [2016: Chapters 3 and 6](#2016-Bloomsday)
 22. [2017: Chapters 7 and 8.i](#2017-Bloomsday)
 23. [2018: Chapters 8.ii and 9](#2018-Bloomsday)
+24. [2018: 20th Anniversary Reading](#2018-20thanniv)
+25. [2019: Irish Week Reading](#2019-irish-week)
 
 1998: Chapter 1
 ---------------
