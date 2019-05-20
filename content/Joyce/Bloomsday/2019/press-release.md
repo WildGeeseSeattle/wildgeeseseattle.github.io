@@ -6,11 +6,11 @@ Category: 2019
 
 The [Wild Geese Players of Seattle](http://www.wildgeeseseattle.org/)
 join Bloomsday celebrations across the globe honoring *Ulysses'* author James Joyce.
-Our 22nd annual staged reading of selections from the book will be held
+Our 22nd annual **staged reading** of a chapter from the book will be held
 on Bloomsday, Sunday, June 16th at 2:00pm
 in the Microsoft Auditorium at the [Seattle Central Library](http://www.spl.org/calendar-of-events),
 1000 Fourth Ave, Seattle, WA 98104.
-We will also be reading excerpts from the chapter
+We will also be reading excerpts
 at 6:00pm on Friday, June 14th,
 at [Folio Seattle](http://www.folioseattle.org/), 93 Pike St #307, Seattle, WA 98101.
 
