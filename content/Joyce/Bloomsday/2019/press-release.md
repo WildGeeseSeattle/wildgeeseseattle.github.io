@@ -37,4 +37,4 @@ or *follow* [@WildGeeseSea](http://twitter.com/wildgeesesea) on Twitter.
 
 Follow-up contacts: <br/>
 George Reilly, Director,  WildGeeseSeattle@gmail.com <br/>
-Iain Edgewater, ???@???
+Iain Edgewater, i.edgewater@gmail.com, 206.693.8166
