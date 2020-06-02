@@ -4,7 +4,7 @@ Category: 2019
 
 # 22nd Annual Staged Reading / Bloomsday Celebration of James Joyce’s Ulysses
 
-The [Wild Geese Players of Seattle](http://www.wildgeeseseattle.org/)
+The [Wild Geese Players of Seattle](https://www.wildgeeseseattle.org/)
 join Bloomsday celebrations across the globe honoring *Ulysses'* author James Joyce.
 Our 22nd annual **staged reading** of a chapter from the book will be held
 on Bloomsday, Sunday, June 16th at 2:00pm
