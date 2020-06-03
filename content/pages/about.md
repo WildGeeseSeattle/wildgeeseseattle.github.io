@@ -1,6 +1,12 @@
-Title: The Players
+Title: About
 Date: 2008-06-01
 Category: misc
+
+The Wild Geese Players of Seattle are a diverse group of people who
+share a common interest in Irish literature.
+Some of us were born in Ireland,
+some of us are of Irish descent,
+and some of us are honorary Irish!
 
 Originally, the [Flight of the Wild Geese](http://en.wikipedia.org/wiki/Flight_of_the_Wild_Geese)
 referred to thousands of Irish soldiers who were exiled to France
@@ -14,19 +20,13 @@ of Portumna, Co. Galway has a large collection of Wild Geese material.
 More generally, the term "Wild Geese" has become synonymous with the
 [Irish diaspora](http://en.wikipedia.org/wiki/Irish_diaspora).
 
-The Wild Geese Players of Seattle are a diverse group of people who
-share a common interest in Irish literature.
-Some of us were born in Ireland,
-some of us are of Irish descent,
-and some of us are honorary Irish!
-
 Here are past and current members of the Players.
 
 * * * * *
 
 ### Bill Barnes
 
-![Bill Barnes]({filename}images/Bill_Barnes.jpg)
+![Bill Barnes]({filename}../images/Bill_Barnes.jpg)
 
 WD "Bill" Barnes is married to the former Maura Boyle of Belfast.
 A native of Seattle, he is a long-standing member of the Irish-American community.
@@ -39,7 +39,7 @@ Bill is retired.
 
 ### Emma Bartholomew
 
-![Emma Bartholomew]({filename}images/emma-bartholomew.jpg)
+![Emma Bartholomew]({filename}../images/emma-bartholomew.jpg)
 
 Emma Bartholomew has a degree in Comparative Literature from Scripps
 College. After a stint in the Air Force, she moved to Seattle in 1987.
@@ -49,7 +49,7 @@ Reilly](#George-Reilly).
 
 * * * * *
 
-![Don Berg]({filename}images/Don_Berg.jpg)
+![Don Berg]({filename}../images/Don_Berg.jpg)
 
 ### Don Berg
 
@@ -59,10 +59,15 @@ the Global War on Terror. In real life he works at UW School of Nursing
 and is a Naval Reserve Officer. As a denizen of the local art scene, Don
 has appeared in local theater production and local and regional TV ad
 commercial productions.
+* * * * *
+
+### Roger Berger
+
+International Man of Mystery
 
 * * * * *
 
-![Olivia Bermingham-McDonogh]({filename}images/Olivia_Bermingham-McDonogh.jpg)
+![Olivia Bermingham-McDonogh]({filename}../images/Olivia_Bermingham-McDonogh.jpg)
 
 ### Olivia Bermingham-McDonogh
 
@@ -96,7 +101,19 @@ some Irish ancestry she tries to play up. She directed 2007's reading.
 
 * * * * *
 
-![Ellen Coyle]({filename}images/Coyle_Ellen_001.jpg)
+### Irene Calvo
+
+?
+
+* * * * *
+
+### Lynne Compton
+
+?
+
+* * * * *
+
+![Ellen Coyle]({filename}../images/Coyle_Ellen_001.jpg)
 
 ### Ellen Coyle
 
@@ -109,7 +126,7 @@ we create about them.
 
 * * * * *
 
-![Maura Donegan]({filename}images/Maura_Donegan.jpg)
+![Maura Donegan]({filename}../images/Maura_Donegan.jpg)
 
 ### Maura Donegan
 
@@ -149,6 +166,12 @@ trainer, training developer, writer and editor.
 
 * * * * *
 
+### Bruce Greeley
+
+?
+
+* * * * *
+
 ### Mark Gunning
 
 Mark Gunning, was born and reared in Dublin (more than half a century
@@ -170,7 +193,7 @@ his Anglo-Danish wife and surviving children.
 
 * * * * *
 
-![Wendy Joseph]({filename}images/WendyJoseph2.jpg)
+![Wendy Joseph]({filename}../images/WendyJoseph2.jpg)
 
 ### Wendy Joseph
 
@@ -203,7 +226,7 @@ Seattle University.
 
 * * * * *
 
-![Bill Kuhn]({filename}images/BillKuhn.jpg)
+![Bill Kuhn]({filename}../images/BillKuhn.jpg)
 
 ### Bill Kuhn
 
@@ -227,7 +250,7 @@ Rowland and is the father of John Patrick, 17, and Brendan Thomas, 15.
 
 * * * * *
 
-![Leon Mattigosh]({filename}images/LeonMattigosh.jpg)
+![Leon Mattigosh]({filename}../images/LeonMattigosh.jpg)
 
 ### Leon Mattigosh
 
@@ -241,6 +264,12 @@ SEAGULL and UNCLE VANYA. Leon is an enrolled member of the Lac Du
 Flambeau Band of Lake Superior Chippewa Indians. Leon is confident that
 having taken part in a reading of Joyce's ULYSSES, he will go straight
 to hell.
+
+* * * * *
+
+### Jim McDermott
+
+Former Congressman for Seattle.
 
 * * * * *
 
@@ -258,7 +287,7 @@ Company.
 
 * * * * *
 
-![Ciaran O'Mahony]({filename}images/ciaran-omahony.jpg)
+![Ciaran O'Mahony]({filename}../images/ciaran-omahony.jpg)
 
 ### Ciaran O'Mahony
 
@@ -293,13 +322,17 @@ now in the process of a new building to house 2 theatres, 400 seat and
 
 ### Lyndol Pullen
 
-Lyndol Pullen was born in Idaho and has lived in Seattle for many years.
-He is a retired printer and an enthusiastic musical arranger and
-pianist.
+Lyndol Pullen was born in Idaho and lived in Seattle for many years.
+He was a retired printer and an enthusiastic musical arranger and pianist.
+Lyn died in 2015.
 
 * * * * *
 
-![George V. Reilly]({filename}images/george_v_reilly.jpg)
+### Loretta Rafay
+
+* * * * *
+
+![George V. Reilly]({filename}../images/george_v_reilly.jpg)
 
 ### George V. Reilly
 
@@ -307,16 +340,15 @@ George V. Reilly grew up in Dublin and moved to Seattle in 1992.
 He has degrees in Computer Science from Trinity College Dublin and Brown University,
 and works as a software developer.
 He first tried---and failed---to read Ulysses on the centenary of Joyce's birth in 1982.
-He joined the Players in 2003. George is married to [Emma
-Bartholomew](#Emma-Bartholomew)
+He joined the Players in 2003. George is married to [Emma Bartholomew](#Emma-Bartholomew)
 
-George is the director, the dramaturg, the webmaster of the Wild Geese.
+George is the dramaturg, the webmaster, and the occasional director of the Wild Geese.
 
 * * * * *
 
 ### Joseph Ryan
 
-![Joseph Ryan]({filename}images/joseph_ryan.jpg)
+![Joseph Ryan]({filename}../images/joseph_ryan.jpg)
 
 Joseph grew up in Dublin and moved to Nenagh in Tipperary for high
 school. He attended University College in Dublin and later emigrated to
