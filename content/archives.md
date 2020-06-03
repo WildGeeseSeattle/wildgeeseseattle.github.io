@@ -29,6 +29,8 @@ Category: archives
 23. [2018: Chapters 8.ii and 9](#2018-Bloomsday)
 24. [2018: 20th Anniversary Reading](#2018-20thanniv)
 25. [2019: Irish Week Reading](#2019-irish-week)
+26. [2019: Chapter 10](#2019-Bloomsday)
+27. [2020: Chapter 11](#2020-Bloomsday)
 
 1998: Chapter 1
 ---------------
@@ -135,3 +137,23 @@ Nothing here yet for [Chapters 2 and 5, Nestor and the Lotus Eaters]({filename}J
 ---------------------------------------
 
 Nothing here yet for [150th anniversary of Yeats' birth]({filename}Yeats/2015/150-reading.md).
+
+2016: Chapters 3 and 6
+----------------------
+
+Nothing here yet for [Chapters 3 and 6, Proteus and Hades]({filename}Joyce/Bloomsday/2016.md).
+
+2017: Chapters 7 and 8.i
+------------------------
+
+Nothing here yet for [Chapters 7 and 8.i, Aelous and Lestrygonians, part I]({filename}Joyce/Bloomsday/2017.md).
+
+2018: Chapters 8.ii and 9
+-------------------------
+
+Nothing here yet for [Chapters 8.ii and 9, Lestrygonians, part II, and Scylla & Charybdis]({filename}Joyce/Bloomsday/2018.md).
+
+2019: Chapter 10
+----------------
+
+Nothing here yet for [Chapter 10, Wandering Rocks]({filename}Joyce/Bloomsday/2019.md).

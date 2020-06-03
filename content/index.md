@@ -32,7 +32,7 @@ The Wild Geese Players of Seattle have been staging readings of Irish literature
 by writers such as [James Joyce]({filename}Joyce/index.md) and
 [W.B. Yeats]({filename}Yeats/index.md),
 in Seattle since 1998.
-We are a [diverse group of people]({filename}players.md)
+We are a [diverse group of people]({filename}/pages/about.md)
 with an interest in Irish literature,
 and most of us are either Irish-born or have Irish connections.
 More generally, the Wild Geese refers to the
