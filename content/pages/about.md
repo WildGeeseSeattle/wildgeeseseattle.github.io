@@ -71,12 +71,14 @@ International Man of Mystery
 
 ### Olivia Bermingham-McDonogh
 
-Olivia Bermingham-McDonogh was born in Tuam, Co. Galway and came to the
-USA for graduate school at UCLA. Other than the required school plays,
-she has never performed in anything other than the annual Bloomsday
-reading of Ulysses. She is a Research Assistant Professor at the
-University of Washington; her research area is development and
-regeneration of the inner ear. She has now spent half her life in the US
+Olivia Bermingham-McDonogh was born in Tuam, Co. Galway
+and came to the USA for graduate school at UCLA.
+Other than the required school plays,
+she has never performed in anything
+other than the annual Bloomsday reading of Ulysses.
+She is a Professor at the University of Washington;
+her research area is development and regeneration of the inner ear.
+She has now spent half her life in the US
 and wonders if she will ever find her way back home!
 
 * * * * *
