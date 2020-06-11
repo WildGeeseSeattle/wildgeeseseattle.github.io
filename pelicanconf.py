@@ -8,7 +8,7 @@ SITEURL = ''
 THEME = 'theme/green-goose'
 
 PATH = 'content'
-STATIC_PATHS = ['extras', 'posters', 'images']
+STATIC_PATHS = ['extras', 'posters', 'images', 'scripts']
 
 TIMEZONE = 'America/Los_Angeles'
 DEFAULT_LANG = 'en'
@@ -26,7 +26,7 @@ AUTHOR_FEED_RSS = None
 #          ('Jinja2', 'http://jinja.pocoo.org/'),
 #          ('You can modify those links in your config file', '#'),)
 
-# Social widget
+# the Wild Geese Players of Seattle Social widget
 # SOCIAL = (('You can add links in your config file', '#'),
 #           ('Another social link', '#'),)
 
