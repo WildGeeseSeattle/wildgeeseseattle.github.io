@@ -31,6 +31,7 @@ Category: archives
 25. [2019: Irish Week Reading](#2019-irish-week)
 26. [2019: Chapter 10](#2019-Bloomsday)
 27. [2020: Chapter 11](#2020-Bloomsday)
+27. [2021: Chapter 12](#2021-Bloomsday)
 
 1998: Chapter 1
 ---------------
@@ -157,3 +158,13 @@ Nothing here yet for [Chapters 8.ii and 9, Lestrygonians, part II, and Scylla & 
 ----------------
 
 Nothing here yet for [Chapter 10, Wandering Rocks]({filename}Joyce/Bloomsday/2019.md).
+
+2020: Chapter 11
+----------------
+
+Nothing here yet for [Chapter 11, Sirens Rocks]({filename}Joyce/Bloomsday/2020.md).
+
+2021: Chapter 12
+----------------
+
+Nothing here yet for [Chapter 12, Cyclops]({filename}Joyce/Bloomsday/2021.md).
