@@ -4,12 +4,11 @@ Category: 2016
 
 # 19th Annual Staged Reading / Bloomsday Celebration of James Joyce’s Ulysses
 
-The [Wild Geese Players of
-Seattle](http://www.wildgeeseseattle.org/index.html) join Bloomsday
+The [Wild Geese Players of Seattle](https://www.wildgeeseseattle.org/) join Bloomsday
 celebrations across the globe honoring Ulysses' author James Joyce. Our
 19th annual staged reading of selections from the book will be held on
 Sunday, June 19, 2016 from 2–4 PM at the [Seattle Central
-Library](http://www.spl.org/calendar-of-events), 1000 Fourth Ave,
+Library](https://www.spl.org/calendar-of-events), 1000 Fourth Ave,
 Seattle, WA 98104, Level 4 – Room 2 – Howard S. Wright Family & Janet W.
 Ketcham Meeting Room.
 
@@ -43,9 +42,9 @@ connections. We believe that poetry and certain novels are best read
 aloud, that some words are better heard than read.
 
 For more information, visit the Wild Geese Players’ website
-[www.WildGeeseSeattle.org](http://www.WildGeeseSeattle.org), like our
+[www.WildGeeseSeattle.org](https://www.WildGeeseSeattle.org), like our
 [Facebook group](https://www.facebook.com/groups/51261017427/), or
-follow [@WildGeeseSea](http://twitter.com/wildgeesesea) on Twitter.
+follow [@WildGeeseSea](https://twitter.com/wildgeesesea) on Twitter.
 
 Follow-up contacts: <br>
 George Reilly, Director,  WildGeeseSeattle@gmail.com <br>

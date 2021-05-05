@@ -44,7 +44,7 @@ For more information,
 visit the Wild Geese Players’ website
 [www.WildGeeseSeattle.org](https://www.WildGeeseSeattle.org),
 *like* our [Facebook group](https://www.facebook.com/groups/51261017427/),
-or *follow* [@WildGeeseSea](http://twitter.com/wildgeesesea) on Twitter.
+or *follow* [@WildGeeseSea](https://twitter.com/wildgeesesea) on Twitter.
 
 Contacts: <br/>
 Director: George Reilly [WildGeeseSeattle@gmail.com](mailto:WildGeeseSeattle@gmail.com)  <br/>

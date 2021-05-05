@@ -8,7 +8,7 @@ The Wild Geese Players of Seattle will present a staged reading of
 Chapter 2, “Nestor”, and Chapter 5, “The Lotus Eaters”,
 adapted from the 1922 edition of James Joyce's *Ulysses*,
 on 2pm on Saturday, June 20th, 2015,
-at [The Seattle Central Library](http://www.spl.org/locations/central-library),
+at [The Seattle Central Library](https://www.spl.org/locations/central-library),
 1000 Fourth Ave, Seattle, WA 98104
 [Map](https://maps.google.com/maps?q=1000+Fourth+Avenue,+Seattle,+WA+98104).
 
@@ -49,5 +49,5 @@ generally, the Wild Geese refers to the Irish diaspora, after the
 original Wild Geese, exiled Irish soldiers and their descendants who
 served in European armies in the 16th–18th centuries.
 
-Contact: [www.WildGeeseSeattle.org](http://www.WildGeeseSeattle.org) |
+Contact: [www.WildGeeseSeattle.org](https://www.WildGeeseSeattle.org) |
 [WildGeeseSeattle@gmail.com](mailto:WildGeeseSeattle@gmail.com)

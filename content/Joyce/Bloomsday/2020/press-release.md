@@ -35,7 +35,7 @@ that some works are better heard than read.
 For more information,
 visit the Wild Geese Players’ website [www.WildGeeseSeattle.org](https://www.WildGeeseSeattle.org),
 *like* our [Facebook group](https://www.facebook.com/groups/51261017427/),
-or *follow* [@WildGeeseSea](http://twitter.com/wildgeesesea) on Twitter.
+or *follow* [@WildGeeseSea](https://twitter.com/wildgeesesea) on Twitter.
 
 Contacts: <br/>
 Roger Berger, director, or George Reilly WildGeeseSeattle@gmail.com  <br/>

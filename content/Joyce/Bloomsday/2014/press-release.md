@@ -8,7 +8,7 @@ The Wild Geese Players of Seattle will present a staged reading of
 Chapter 1, “Telemachus”, and Chapter 4, “Calypso”,
 adapted from the 1922 edition of James Joyce's *Ulysses*,
 on 2pm on Sunday, June 15th, 2014,
-at [The Seattle Central Library](http://www.spl.org/locations/central-library),
+at [The Seattle Central Library](https://www.spl.org/locations/central-library),
 1000 Fourth Ave, Seattle, WA 98104
 [Map](https://maps.google.com/maps?q=1000+Fourth+Avenue,+Seattle,+WA+98104).
 Donations towards costs of posters and props are welcome.
@@ -36,5 +36,5 @@ European armies in the 16th–18th centuries.
 
 The reading is expected to take about 100 minutes.
 
-Contact: [www.WildGeeseSeattle.org](http://www.WildGeeseSeattle.org) |
+Contact: [www.WildGeeseSeattle.org](https://www.WildGeeseSeattle.org) |
 [WildGeeseSeattle@gmail.com](mailto:WildGeeseSeattle@gmail.com)

@@ -6,7 +6,7 @@ Category: 2009
 
 The Wild Geese Players of Seattle will perform a staged reading of *Circe*,
 chapter 15 of James Joyce’s *Ulysses*, on Saturday, June 13th, 2009, 1:00-3:45pm,
-at the [University Bookstore](http://www.bookstore.washington.edu/),
+at the [University Bookstore](https://www.bookstore.washington.edu/),
 4326 University Way NE, Seattle, WA 98105.
 Donations towards costs of posters and props are welcome.
 
@@ -24,10 +24,10 @@ The Wild Geese have been staging readings of Ulysses and other Irish
 literature in Seattle since 1998. We are a diverse group of people with
 an interest in Irish literature, and most of us are either Irish-born or
 have Irish connections. More generally, Wild Geese refers to the [Irish
-diaspora](http://en.wikipedia.org/wiki/Irish_diaspora), after the
+diaspora](https://en.wikipedia.org/wiki/Irish_diaspora), after the
 original [Wild
-Geese](http://en.wikipedia.org/wiki/Flight_of_the_Wild_Geese), exiled
+Geese](https://en.wikipedia.org/wiki/Flight_of_the_Wild_Geese), exiled
 Irish soldiers and their descendants who served in European armies in
 the 16th–18th centuries.
 
-[www.WildGeeseSeattle.org](http://www.WildGeeseSeattle.org)
+[www.WildGeeseSeattle.org](https://www.WildGeeseSeattle.org)

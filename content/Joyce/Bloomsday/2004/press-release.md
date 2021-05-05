@@ -34,4 +34,4 @@ at 2pm, June 16th, Bloomsday.
 
 Mary Kelly, Publicity: 206 528-1988 <br>
 Kieran O'Malley: 206 543-7155 <br>
-[www.wildgeeseseattle.org](http://www.wildgeeseseattle.org/)
+[www.wildgeeseseattle.org](https://www.wildgeeseseattle.org/)

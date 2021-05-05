@@ -20,4 +20,4 @@ DONATIONS AT THE DOOR
 
 ## Further Information:
 
-[www.wildgeeseseattle.org](http://www.wildgeeseseattle.org/)
+[www.wildgeeseseattle.org](https://www.wildgeeseseattle.org/)

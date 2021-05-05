@@ -4,11 +4,11 @@ Category: 2017
 
 # 20th Annual Staged Reading / Bloomsday Celebration of James Joyce’s Ulysses
 
-The [Wild Geese Players of Seattle](http://www.wildgeeseseattle.org/index.html)
+The [Wild Geese Players of Seattle](https://www.wildgeeseseattle.org/)
 join Bloomsday celebrations across the globe honoring Ulysses' author James Joyce.
 Our 20th annual staged reading of selections from the book will be held at
 7:30pm on Friday, June 16th, 2017, at
-[Folio](http://www.folioseattle.org/), 314 Marion St, Seattle, WA 98104.
+[Folio](https://www.folioseattle.org/), 314 Marion St, Seattle, WA 98104.
 This year’s reading features Chapter 7, “Aeolus”, and Chapter 8, “Lestrygonians.”
 
 Bloomsday (Bloom’s day, named for Ulysses’ main character, Leopold Bloom)
@@ -26,9 +26,9 @@ connections. We believe that poetry and certain novels are best read
 aloud, that some words are better heard than read.
 
 For more information, visit the Wild Geese Players’ website
-[www.WildGeeseSeattle.org](http://www.WildGeeseSeattle.org), like our
+[www.WildGeeseSeattle.org](https://www.WildGeeseSeattle.org), like our
 [Facebook group](https://www.facebook.com/groups/51261017427/), or
-follow [@WildGeeseSea](http://twitter.com/wildgeesesea) on Twitter.
+follow [@WildGeeseSea](https://twitter.com/wildgeesesea) on Twitter.
 
 Follow-up contacts: <br>
 George Reilly, Director,  WildGeeseSeattle@gmail.com <br>
@@ -42,4 +42,4 @@ Folio provides lovely and comfortable work spaces for readers, writers,
 and browsers. It also has a full schedule of programs and discussion
 groups open to the public. Members may borrow books and enjoy other
 perks. Membership is only \$10/month. Details at the website:
-[www.folioseattle.org](http://www.folioseattle.org).
+[www.folioseattle.org](https://www.folioseattle.org).
