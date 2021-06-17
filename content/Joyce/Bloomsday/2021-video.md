@@ -26,10 +26,10 @@ And here's the **full 2.5-hour video**:
 
 Read along with the [script]({filename}/scripts/cyclops.pdf).
 
-More details [here]({filename}2021.md).
+More details about the [Cyclops episode]({filename}2021.md).
+
 
 ## Credits
-
 
 **No Man**:             George Reilly<br/>
 **Leopold Bloom**:      Leon Mattigosh<br/>
@@ -59,9 +59,10 @@ Irene Calvo, Claudia Finn, Roger Berger, Aly Gardner-Shelby,
 Iain Edgewater, Wendy Joseph, Bill Barnes, Leon Mattigosh,
 Joseph Ryan, George Reilly.
 
-**Director**: George Reilly<br/>
-**Script**: George Reilly<br/>
-**Poster**: Leon Mattigosh<br/>
-**Video Editing**: Helen Brew<br/>
-**Publicity**: Claudia Finn, George Reilly<br/>
-**Website**: George Reilly
+**Director**:           George Reilly<br/>
+**Script**:             George Reilly<br/>
+**Poster**:             Leon Mattigosh<br/>
+**Video Editing**:      Helen Brew<br/>
+**Introduction**:       Roger Berger<br/>
+**Publicity**:          Claudia Finn, George Reilly<br/>
+**Website**:            George Reilly
