@@ -1,4 +1,6 @@
 pelican<4
+markupsafe<2
+jinja2<3
 markdown
 invoke
 python-dateutil
