@@ -1,6 +1,7 @@
 Title: 2023 Bloomsday Press Release
 Date: 2023-05-25 21:00
 Category: 2023
+Slug: bloomsday-press-release-2023
 
 # 26th Annual Staged Reading of James Joyce’s Ulysses
 
@@ -9,8 +10,8 @@ join Bloomsday celebrations across the globe
 honoring *Ulysses'* author James Joyce.
 This year marks the centenary of the publication of *Ulysses* in 1922.
 
-For our 26th annual reading, we’ll present Episode 13, Nausicaa,
-at 2:00 pm on June 17, 2023
+For our 26th annual reading, we’ll present Episode 14, “Oxen of the Sun”,
+at 2:00pm on June 17, 2023
 at the Greenwood Branch of the Seattle Public Library,
 8016 Greenwood Ave N,
 Seattle, WA 98103.
@@ -20,8 +21,16 @@ refers to the 24-hour period on June 16, 1904 in which *Ulysses* is set.
 *Ulysses* follows the wanderings of Bloom, a Jewish everyman,
 and Stephen Dedalus, a young writer and Joyce's alter ego,
 as they wander the streets of Dublin.
-
-
+In Episode 14 it is 10pm,
+and Leopold Bloom visits a maternity hospital,
+where poor Mina Purefoy is entering her 3rd day of labor.
+Bloom encounters a group of drunken medical students,
+who carry on wildly while discussing poor Mrs. Purefoy’s fate.
+In this episode, Joyce’s incomparable narrative
+celebrates the history of the English language
+through elaborate parodies and structures.
+At the same time, he reveals much about contemporary attitudes
+surrounding pregnancy and birth.
 
 Since 1998, The Wild Geese Players of Seattle
 have presented staged readings of Irish literature,
