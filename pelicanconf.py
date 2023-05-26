@@ -40,3 +40,8 @@ TYPOGRIFY = True
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+PAGINATION_PATTERNS = (
+    (1, '{url}', '{save_as}'),
+    (2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index.html'),
+)
