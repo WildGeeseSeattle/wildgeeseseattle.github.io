@@ -1,18 +1,18 @@
-Title: 2023 Bloomsday Press Release
-Date: 2023-05-25 21:00
-Category: 2023
-Slug: bloomsday-press-release-2023
+Title: 2024 Bloomsday Press Release
+Date: 2024-05-13 21:30
+Category: 2024
+Slug: bloomsday-press-release-2024
 
-# 26th Annual Staged Reading of James Joyce’s Ulysses
+# 27th Annual Staged Reading of James Joyce’s Ulysses
 
 The [Wild Geese Players of Seattle](https://www.wildgeeseseattle.org/)
 join Bloomsday celebrations across the globe
-honoring *Ulysses'* author James Joyce.
+honoring *Ulysses’* author James Joyce.
 
-For our 26th annual reading, we’ll present Episode 14, “Oxen of the Sun”,
-at 2:00pm on June 17, 2023
-at the Greenwood Branch of the Seattle Public Library,
-8016 Greenwood Ave N,
+For our 27th annual reading, we’ll present Episode 15, “Circe” (part one),
+at 2:00pm on Saturday, June 15, 2024
+at the Fremont Branch of the Seattle Public Library,
+731 N. 35th St,
 Seattle, WA 98103.
 
 Bloomsday (Bloom’s day, named for *Ulysses’* main character, Leopold Bloom)
@@ -21,16 +21,15 @@ refers to the 24-hour period on June 16, 1904 in which *Ulysses* is set.
 and Stephen Dedalus, a young writer and Joyce's alter ego,
 as they wander the streets of Dublin.
 
-In Episode 14, it is 10pm,
-and Leopold Bloom visits a maternity hospital,
-where poor Mina Purefoy is entering her 3rd day of labor.
-Bloom encounters a group of drunken medical students,
-who carry on wildly while discussing poor Mrs. Purefoy’s fate.
-In this episode, Joyce’s incomparable narrative
-celebrates the history of the English language
-through elaborate parodies and structures.
-At the same time, he reveals much about contemporary attitudes
-surrounding pregnancy and birth.
+In Episode 15, it is around midnight,
+and Stephen Dedalus and his friend Lynch, both very drunk,
+have entered Nighttown, Dublin’s red-light district,
+in search of female companionship.
+Leopold Bloom, who has some paternal feelings for Stephen,
+has followed them.
+This chapter is full of hallucinations and nightmares,
+where Bloom confronts many of his unspoken desires
+and emerges strengthened.
 
 Since 1998, The Wild Geese Players of Seattle
 have presented staged readings of Irish literature,
@@ -48,6 +47,7 @@ visit the Wild Geese Players’ website
 *like* our [Facebook group](https://www.facebook.com/groups/51261017427/),
 or *follow* [@WildGeeseSea](https://twitter.com/wildgeesesea) on Twitter.
 
-Contacts: <br/>
-Director: George Reilly [WildGeeseSeattle@gmail.com](mailto:WildGeeseSeattle@gmail.com)  <br/>
-Publicity: Claudia Finn [cfinnseattle@gmail.com](mailto:cfinnseattle@gmail.com)
+Contacts:
+
+- Director - Claudia Finn [cfinnseattle@gmail.com](mailto:cfinnseattle@gmail.com)
+- Dramaturg - George Reilly [WildGeeseSeattle@gmail.com](mailto:WildGeeseSeattle@gmail.com)
