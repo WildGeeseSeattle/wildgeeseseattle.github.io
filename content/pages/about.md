@@ -9,16 +9,23 @@ Some of us were born in Ireland,
 some of us are of Irish descent,
 and some of us are honorary Irish!
 
-Originally, the [Flight of the Wild Geese](http://en.wikipedia.org/wiki/Flight_of_the_Wild_Geese)
+Originally, the [Flight of the Wild Geese]
 referred to thousands of Irish soldiers who were exiled to France
 after the Treaty of Limerick in 1691.
 For generations, their descendants served in
 the Irish Brigades in continental European armies.
 
 More generally, the term "Wild Geese" has become synonymous with the
-[Irish diaspora](http://en.wikipedia.org/wiki/Irish_diaspora).
+[Irish diaspora].
 
-2024 cast and crew:
+The Wild Geese Players of Seattle were formed in 1998
+by Dr Kieran O'Malley,
+following an earlier incarnation of the Wild Geese in Edmonton.
+
+[Flight of the Wild Geese]: http://en.wikipedia.org/wiki/Flight_of_the_Wild_Geese
+[Irish diaspora]: http://en.wikipedia.org/wiki/Irish_diaspora
+
+## 2024 Cast and Crew
 
 - Roger Berger
 - [Irene Calvo](#irene-calvo)
@@ -121,7 +128,8 @@ and works as a software engineer.
 He first tried—and failed—to read Ulysses
 on the centenary of Joyce’s birth in 1982.
 He joined the Players in 2003.
-George is the dramaturg, the webmaster, and the occasional director of the Wild Geese.
+George leads the Geese,
+where he is the dramaturg, the webmaster, and sometimes directs readings.
 
 <a name="joseph-ryan"></a>
 ### Joseph Ryan
