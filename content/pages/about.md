@@ -49,14 +49,8 @@ in such a brilliant and welcoming community.
 <a name="maura-donegan"></a>
 ### Maura Donegan
 
-![Maura Donegan]({filename}../images/Maura_Donegan.jpg){align=right class=bio}
-
-Maura Donegan has read with the Wild Geese since 2008
-and was involved with the original Wild Geese in Edmonton,
-assisting with costumes.
-Her interests include textiles and embroidery.
-Maura is from Ireland.
-She has three children whom she educated at home.
+Maura Donegan has read with the Wild Geese since 2004.
+Her interests include embroidery, textiles and gardening.
 
 <a name="claudia-finn"></a>
 ### Claudia Finn
