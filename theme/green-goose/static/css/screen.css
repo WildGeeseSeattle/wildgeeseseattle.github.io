@@ -357,3 +357,11 @@ footer p { margin: 0; }
 .right { float: right; }
 
 .clear { clear: both; }
+
+img[class="bio"][align="left"] {
+	margin: 0pt 15px 0pt 0pt;
+}
+
+img[class="bio"][align="right"] {
+	margin: 0pt 0pt 0pt 15px;
+}

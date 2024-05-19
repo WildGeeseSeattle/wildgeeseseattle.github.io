@@ -36,6 +36,8 @@ More generally, the term "Wild Geese" has become synonymous with the
 <a name="irene-calvo"></a>
 ### Irene Calvo
 
+![Irene Calvo]({filename}../images/IreneCalvo.jpg){align=left class=bio}
+
 Irene Calvo grew up in New York City immersed in the arts.
 After graduating in English and Classics from Stanford University,
 and after careers as an editor and textile print designer in New York,
@@ -47,7 +49,7 @@ in such a brilliant and welcoming community.
 <a name="maura-donegan"></a>
 ### Maura Donegan
 
-![Maura Donegan]({filename}../images/Maura_Donegan.jpg){align=right}
+![Maura Donegan]({filename}../images/Maura_Donegan.jpg){align=right class=bio}
 
 Maura Donegan has read with the Wild Geese since 2008
 and was involved with the original Wild Geese in Edmonton,
@@ -82,7 +84,7 @@ and has been reading with the Wild Geese for almost 20 years.
 <a name="wendy-joseph"></a>
 ### Wendy Joseph
 
-![Wendy Joseph]({filename}../images/WendyJoseph4.jpg){align=right}
+![Wendy Joseph]({filename}../images/WendyJoseph4.jpg){align=left class=bio}
 
 Wendy Joseph is a published poet, playwright and novelist.
 Her plays, Gargoyles, Booking Hold, The Hamlet Interview and Oil in the Sound,
@@ -100,7 +102,7 @@ She also won a Bad Hemingway contest.
 <a name="leon-mattigosh"></a>
 ### Leon Mattigosh
 
-![Leon Mattigosh]({filename}../images/LeonMattigosh.jpg){align=right}
+![Leon Mattigosh]({filename}../images/LeonMattigosh.jpg){align=right class=bio}
 
 Leon Mattigosh has been performing and studying performance in Seattle for 30 years.
 He is a member of the Red Earth Performing Arts theater group.
@@ -117,7 +119,7 @@ he will go straight to hell.
 <a name="george-reilly"></a>
 ### George Reilly
 
-![George V. Reilly]({filename}../images/george_v_reilly.jpg){align=right}
+![George V. Reilly]({filename}../images/george_v_reilly.jpg){align=left class=bio}
 
 George V. Reilly grew up in Dublin and moved to Seattle in 1992.
 He has degrees in Computer Science from Trinity College Dublin and Brown University,
@@ -130,7 +132,7 @@ George is the dramaturg, the webmaster, and the occasional director of the Wild 
 <a name="joseph-ryan"></a>
 ### Joseph Ryan
 
-![Joseph Ryan]({filename}../images/joseph_ryan.jpg){align=right}
+![Joseph Ryan]({filename}../images/joseph_ryan.jpg){align=right class=bio}
 
 Joseph Ryan grew up in Dublin and moved to Nenagh in Tipperary for high school.
 He attended University College in Dublin and later emigrated to Edmonton in 1981.
@@ -149,7 +151,7 @@ Bloom, a couple of times.
 <a name="eric-swenson"></a>
 ### Eric Swenson
 
-![Eric Swenson]({filename}../images/eric-swenson.png){align=right}
+![Eric Swenson]({filename}../images/eric-swenson.png){align=left class=bio}
 
 Eric Swenson, a native New Yorker,
 has been a Hibernophile all his adult life.
